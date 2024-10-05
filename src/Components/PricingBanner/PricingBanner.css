@@ -1,0 +1,57 @@
+#PricingBanner{
+    background-image: url("../../assets/yoxlama/Hero-Image.jpg");
+    background-position: center center;
+    background-size: cover;
+  
+    position: relative;
+    z-index: 999;
+    display: flex;
+
+}
+
+
+#PricingBanner .container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+   
+}
+
+.PricingBanner-content{
+
+padding: 50px 0;
+position: relative;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+text-align: center;
+}
+
+.PricingBanner-content h2{
+    color: #F4F4F4;
+    font-family:"Oswald"; 
+    font-size: 4rem;
+    font-weight:500;
+     text-transform: uppercase;
+
+    }
+
+    .overlay{
+        position: absolute;
+    background-color:#0D0D0D;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    opacity: 0.5;
+    height: 100%;
+    z-index: -1;
+    }
+    .PricingBanner-content p{
+    color:#c7afaf
+    }
+
+    .PricingBanner-content a{
+       color:#f6be00
+    }

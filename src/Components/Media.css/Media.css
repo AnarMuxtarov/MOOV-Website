@@ -1,0 +1,527 @@
+@media (max-width: 1600px) {
+
+
+
+  
+   /*------------------ Footer resposive start------------------ */
+  .footer-top .nav-text {
+    margin-left: 30px;
+    gap: 20px;
+  }
+   /*------------------ Footer resposive end------------------ */
+}
+/* destop */
+
+@media (max-width: 1280px) {
+
+
+  .container {
+    max-width: 1230px;
+  }
+  /*------------------ Membership responsive start------------------ */
+  .membership-left h4 {
+    font-size: 28px;
+  }
+  /*------------------ Membership responsive end------------------ */
+
+  /*------------------ Footer resposive start------------------ */
+  .footer-top .nav-text {
+    margin-left: 30px;
+  }
+  /*------------------ Footer resposive end------------------ */
+}
+/* tablet */
+
+@media (max-width: 1120px) {
+  .footer-top .nav-text {
+    margin-left: 30px;
+  }
+  .container {
+    max-width: 1108px;
+  }
+
+  /*------------------ Membership responsive start------------------ */
+  .membership-left h4 {
+    font-size: 23px;
+  }
+  .membership-left p {
+    font-size: 13px;
+  }
+  /*------------------ Membership responsive end------------------ */
+}
+/* tablet */
+
+@media (max-width: 941px) {
+  
+  .footer-top .nav-text {
+    margin-left: 0px;
+  }
+  .container {
+    max-width: 830px;
+    /* max-width: 900px; */
+    flex-direction: column;
+    /* gap: 5rem; */
+    
+  }
+   /*------------------ Header resposive start------------------ */
+  header .container {
+    flex-direction: row;
+  }
+  .toggle-btn {
+    display: block !important;
+
+  }
+  .navigation {
+    display: none !important;
+  }
+  header .btn {
+    display: none !important;
+  }
+
+  header .nav-link{
+   flex-direction: column;
+   justify-content: space-evenly;
+   background-color: #1a191f;
+   position: absolute;
+   width: 220px;
+   height: 100%;
+
+   padding: 30px 30px 0;
+   top:48px;
+   right:-300px;
+   z-index: 1000;
+   display: block;
+   transition: 2s;
+   position: fixed;
+   transition: 0.4s ease;
+ border-top: 2px solid #f9ab00;
+   /* transform: translate3d(300px, 0, 0); */
+
+   /* display: flex;
+   flex-direction: column;
+   justify-content: flex-start;
+   align-items: flex-start;
+
+   top: 70px;
+   right: 0;
+   bottom: 0;
+  
+  
+   width: 300px;
+  */
+  }
+
+  header .nav-link.active{
+ position: absolute;
+    right:2px;
+    transition: 2s;
+
+
+   }
+
+   header .nav-link li{
+       padding-top: 15px;
+       padding-bottom: 5px;
+      border-bottom:1px solid #e4d804;
+      /* border-right:1px solid  #fff ; */
+  
+      }
+
+      
+   header .nav-link a{
+    text-transform: uppercase;
+    color: #fff;
+
+    
+      }
+  /*------------------ Header resposive end------------------ */
+
+  /*------------------ Our-services responsive start------------------ */
+  .our-Services-left {
+    width: 70%;
+    display: flex;
+  }
+  .our-Services-right {
+    width: 70%;
+    display: flex;
+
+    flex-direction: column;
+
+    margin-top: 40px;
+  }
+  /*------------------ Our-services responsive  end------------------ */
+
+  /*------------------ Live-movie responsive start------------------ */
+
+  .live-Movie-left {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+  }
+  .live-Movie-right {
+    width: 70%;
+    display: flex;
+  }
+  /*------------------ Live-movie responsive end------------------ */
+
+  /*------------------ Membership responsive start------------------ */
+
+  #Membership .container {
+    text-align: center;
+    padding: 20px 0;
+    gap: 0.5rem;
+  }
+
+  .membership-left {
+    width: 60%;
+  }
+
+  .membership-left p {
+    text-align: center;
+  }
+
+  .membership-right {
+    width: 60%;
+  }
+
+  /*------------------ Membership responsive end------------------ */
+
+   /*------------------ Footer  resposive start------------------ */
+  footer .container {
+    gap: 1rem;
+  }
+
+  .footer-top .nav-text {
+    margin-left: 0px;
+  }
+
+  .footer-top {
+    flex-wrap: wrap;
+  }
+  .footer-logo {
+    width: 100%;
+    text-align: center;
+  }
+  .footer-top .navigations {
+    padding-top: 40px;
+  }
+
+  .footer-top .navigations li {
+    margin-right: 12px;
+  }
+
+  .footer-bottom .navigations a {
+    font-size: 10px;
+    /* margin-left: 35px; */
+  }
+
+  .footer-bottom .navigations a {
+    font-size: 12px;
+    margin-left: 0px;
+  }
+ /*------------------ Footer resposive start------------------ */
+
+    /*------------------ Pricing Page resposive start------------------ */
+    .pricing-bottom {
+    
+      gap: 10px;
+      padding:0;
+      flex-wrap: wrap;}
+    .pricing-box {
+      width: 40%;
+}
+ /*------------------ Pricing Page resposive end------------------ */
+
+ .pricingDetails-bottom {
+
+  grid-template-columns: 1fr 1fr;
+  }
+
+
+
+
+ .contactForm_left {
+  width: 65%;
+ }
+  .contactForm_right {
+    width: 65%;
+ }
+
+
+}
+
+
+
+
+
+
+/* mini tablet */
+
+@media (max-width: 608px) {
+  .container {
+    max-width: 580px;
+
+  }
+
+  /*------------------ Our-services responsive start------------------ */
+  .our-Services-left {
+    width: 100%;
+    p {
+      width: 590px;
+    }
+  }
+  .our-Services-right {
+    width: 100%;
+    h2 {
+      font-size: 32px;
+    }
+
+    .our-Services-left img {
+      max-width: 100%;
+ 
+  }
+
+
+  }
+  /*------------------ Our-services responsive  end------------------ */
+
+  /*------------------ Live-movie responsive start------------------ */
+  .live-Movie-left {
+    width: 100%;
+  }
+  .live-Movie-right {
+    width: 100%;
+  }
+  /*------------------ Live-movie responsive end------------------ */
+
+  .toggle-btn {
+    display: block !important;
+    /* margin-right: 37px; */
+  }
+  /*------------------ Membership responsive start------------------ */
+  .membership-right button {
+    position: static;
+    margin-top: 10px;
+  }
+  /*------------------ Membership responsive end------------------ */
+
+   /*------------------ Footer resposive start------------------ */
+  .footer .container {
+    width: 427px;
+  }
+
+  .footer-top .nav-text {
+    margin-left: 0 !important;
+  }
+
+  .footer-top .navigations li {
+    margin: 0 7px;
+    font-size: 9px;
+  }
+  .footer-top .navigations input {
+  }
+
+   /*------------------ Footer resposive start------------------ */
+
+ /*------------------ Pricing Page resposive start------------------ */
+  .pricing-box {
+    width: 80%;
+}
+ /*------------------ Pricing Page resposive end------------------ */
+
+ .pricingDetails-bottom {
+
+  grid-template-columns: 1fr;
+  }
+
+
+
+ .contactForm_left {
+  width: 75%;
+ }
+  .contactForm_right {
+    width: 75%;
+ }
+
+
+}
+
+/* mobile */
+@media (max-width: 591px) {
+  .container {
+ 
+    max-width: 580px;
+  }
+
+  p {
+    width: 520px;
+  }
+
+  .service-card {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+  }
+
+  .live-card {
+    gap: 0;
+    margin-bottom: 0;
+  }
+
+  /*------------------ Membership responsive start------------------ */
+  .membership-left p {
+    width: 350px;
+  }
+  /*------------------ Membership responsive end----------------- */
+
+
+   /*------------------ Footer resposive start------------------ */
+  .footer-top .navigations {
+    font-display: flex;
+    flex-direction: column;
+    font-size: 1rem;
+  }
+
+  .footer-top .navigations form {
+    padding: 30px 0;
+  }
+
+  .footer-bottom {
+    font-display: flex;
+    flex-direction: column;
+
+    /* flex-wrap: wrap; */
+  }
+
+  .footer-social {
+    padding: 30px 0;
+  }
+
+   /*------------------ Footer resposive end------------------ */
+
+
+   .contact-info-content:nth-child(1) .info-text {
+    border-bottom: none;
+    font-size: 9px;
+  
+  }
+
+}
+/* mobile */
+
+@media (max-width: 427px) {
+  .container {
+    max-width: 380px;
+  }
+  p {
+    width: 380px;
+  }
+
+
+
+  /*------------------ Membership responsive start------------------ */
+  .membership-left h4 {
+    font-size: 26px;
+  }
+
+  .membership-right input {
+    padding-right: 0;
+  }
+
+  .membership-left {
+    width: 90%;
+  }
+
+  /*------------------ Membership responsive end------------------ */
+
+
+ 
+
+
+    /*------------------ Pricing Page resposive start------------------ */
+   .pricing-top h2 {
+
+    font-size: 30px;
+}
+
+
+   .pricing-box {
+    width: 100%;
+}
+
+    /*------------------ Pricing Page resposive end------------------ */
+    .contact-info-content p {
+      font-size: 9px;
+  
+  
+  }
+  .contact-info-content:nth-child(1) .info-text {
+  border-bottom: none;
+
+
+
+}
+}
+/* mobile */
+
+@media (max-width: 393px) {
+  .container {
+    max-width: 340px;
+    p {
+      width: 320px;
+    }
+  }
+
+
+
+
+
+
+  /*------------------ Membership responsive start------------------ */
+  .membership-right input {
+    padding-right: 0;
+  }
+
+  .membership-left {
+    width: 90%;
+  }
+
+  /*------------------ Membership responsive end------------------ */
+
+
+
+  
+  /*------------------ Footer responsive start------------------ */
+  .footer-bottom .navigations li a {
+    font-size: 11px;
+  }
+
+
+  /*------------------ Footer responsive end------------------ */
+
+ /*------------------ Pricing Page resposive start------------------ */
+   .pricing-top h2 {
+
+    font-size: 27px;
+}
+
+
+   .pricing-box {
+    width: 100%;
+}
+  /*------------------ Pricing Page responsive end------------------ */
+  .contactForm_left {
+    width: 100%;
+   }
+    .contactForm_right {
+      width: 100%;
+   }
+
+   /* Pricing-details start */
+   .details-box {
+    display: block;
+   }
+
+}
+
+/* mobile */
