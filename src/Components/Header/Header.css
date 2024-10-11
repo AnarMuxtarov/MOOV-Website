@@ -85,7 +85,7 @@ display: inline-block;
 .btn:hover{
    background: #e4d804;
    color: #1e1b29;
-   transition: 5.5s;
+   transition: 0.7s;
 }
 
  .toggle-btn{

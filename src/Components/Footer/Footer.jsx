@@ -9,6 +9,7 @@ import { IoSearchOutline } from "react-icons/io5";
 
 const Footer = () => {
   return (
+   
     <footer>
       <div className="container">
         <section className="footer-top">

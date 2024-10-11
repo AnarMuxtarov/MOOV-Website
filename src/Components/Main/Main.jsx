@@ -1,22 +1,24 @@
-import React from 'react'
-import OurServices from './Our Services/OurServices'
-import LiveMovie from './Live Movie/LiveMovie'
-import Membership from './Membership/Membership'
-import CoomingSoon from './ComingSoon/ComingSoon'
-import PriceModel from '../PriceModel/PriceModel'
-
+import React from "react";
+import HomeBanner from "./HomeBanner/HomeBanner";
+import HomeCategoryOne from "./HomeCategoryOne/HomeCategoryOne";
+import OurServices from "./Our Services/OurServices";
+import LiveMovie from "./Live Movie/LiveMovie";
+import HomeCategoryTwo from "./HomeCategoryTwo/HomeCategoryTwo";
+import PriceModel from "../PriceModel/PriceModel";
+import Membership from "./Membership/Membership";
 
 const Main = () => {
   return (
     <>
-     <CoomingSoon/>
-     <OurServices/>
-     <LiveMovie/>
-     <PriceModel/>
-     <Membership/>
-     
-     </>
-  )
-}
+      <HomeBanner />
+      <HomeCategoryOne/>
+      <OurServices />
+      <LiveMovie />
+      <HomeCategoryTwo/>
+      <PriceModel />
+      <Membership />
+    </>
+  );
+};
 
 export default Main

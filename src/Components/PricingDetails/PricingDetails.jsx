@@ -1,5 +1,5 @@
 import React from 'react'
-import "../PricingDetails/PricingDetails.css"
+import "./PricingDetails.css"
 import { BsBadgeHdFill } from "react-icons/bs";
 import { MdLocalMovies } from "react-icons/md";
 import { TbDeviceTv } from "react-icons/tb";

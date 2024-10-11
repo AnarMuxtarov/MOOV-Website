@@ -1,27 +1,20 @@
-#PricingBanner{
-    background-image: url("../../assets/images/pricingbanner.jpg");
+#TvShowBanner{
+    background-image: url("../../../assets/Images/TvShow-bg.png");
     background-position: center center;
     background-size: cover;
+    height: 100%;
     position: relative;
     z-index: 999;
-    display: flex;
-    background-repeat: no-repeat;
-    height: 200px;
-    
-
-
 }
 
 
-#PricingBanner .container{
+#TvShowBanner .container{
     display: flex;
     align-items: center;
-    justify-content: center;
-   
-   
+    justify-content: center; 
 }
 
-.PricingBanner-content{
+.tvShowBanner-content{
 
 padding: 50px 0;
 position: relative;
@@ -32,13 +25,12 @@ flex-direction: column;
 text-align: center;
 }
 
-.PricingBanner-content h2{
+.tvShowBanner-content h2{
     color: #F4F4F4;
     font-family:"Oswald"; 
     font-size: 4rem;
     font-weight:500;
      text-transform: uppercase;
-
     }
 
     .overlay{
@@ -51,10 +43,10 @@ text-align: center;
     height: 100%;
     z-index: -1;
     }
-    .PricingBanner-content p{
+    .tvShowBanner-content p{
     color:#c7afaf
     }
 
-    .PricingBanner-content a{
+    .tvShowBanner-content a{
        color:#f6be00
     }

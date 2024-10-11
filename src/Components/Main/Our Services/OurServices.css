@@ -3,8 +3,8 @@
 
 #Our-Services{
   background-color: slategrey;
-background-image: url("../../../assets/Images/services_bg.jpg");
-
+background-image: url("../../../assets/yoxlama/breadcrumb-bg.webp");
+background-attachment: fixed;
 background-position: center;
     background-size: cover;
     padding: 120px 0;}

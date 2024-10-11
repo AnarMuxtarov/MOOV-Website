@@ -1,0 +1,104 @@
+#HomeBanner{
+background-image: url(../../../assets/Images/home-banner.jpg);
+padding: 295px 0 273px;
+background-position: center;
+background-size: cover;
+margin-top: -8%;
+}
+
+
+#HomeBanner .container{
+ 
+display: flex;
+justify-content: flex-start;
+}
+
+.homeBanner-content{
+width: 50%;
+
+animation-duration: 2s;
+animation-delay: 0.5s;
+animation-name: TranslateX;
+
+}
+
+.homeBanner-content h6{
+    font-size: 26px;
+    margin-bottom: 10px;
+    color: #e4d804;
+        
+
+
+}
+
+
+.homeBanner-content h2{
+    font-size: 60px;
+    line-height: 1.2;
+    margin-bottom: 29px;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    margin-top: 0px;
+    font-style: normal;
+    font-weight: 700;
+
+    
+
+  
+}
+
+
+
+
+@keyframes TranslateX {
+    0%{
+        opacity: 0;
+        transform: translateX(30px);
+    }
+    100%{
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+.homeBanner-content h2 span{
+    color: #e4d804;
+}
+
+.homeBanner-content ul {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+
+    visibility: visible;
+  
+  
+}
+.homeBanner-content ul li{
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    margin-right: 18px;
+}
+.homeBanner-content .category{
+    font-size: 14px;
+    font-weight: 500;
+    color: #e3dfdf;
+}
+
+.homeBanner-content ul span{
+    font-size: 14px;
+    font-weight: 500;
+    color: #e3dfdf;
+    margin-right: 10px;
+}
+.homeBanner-content ul svg{
+    font-size: 12px;
+    margin-right: 5px;
+    color: #e4d804;
+    
+}
+
+.btn-home svg{
+font-size: 10px;
+  
+}

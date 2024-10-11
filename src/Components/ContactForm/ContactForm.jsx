@@ -1,5 +1,5 @@
 import React from "react";
-import "../ContactForm/ContactForm.css";
+import "./ContactForm.css";
 import { IoLocationSharp } from "react-icons/io5";
 import { MdCall } from "react-icons/md";
 import { BsEnvelopeFill } from "react-icons/bs";

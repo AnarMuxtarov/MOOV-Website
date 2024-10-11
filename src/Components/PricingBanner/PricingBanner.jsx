@@ -1,5 +1,5 @@
 import React from "react";
-import "../../Components/PricingBanner/PricingBanner.css";
+import "./PricingBanner.css";
 
 const PricingBanner = () => {
   return (

@@ -1,6 +1,6 @@
 import React from "react";
 import "../Our Services/OurServices.css";
-import Img from "../../../assets/yoxlama/6.jpg"
+import Img from "../../../assets/Images/services_img.jpg"
 // import {FaTv} from  "@react-icons/all-files/fa/FaBeer"
 import { FaTv } from "react-icons/fa";
 import { BsCameraReelsFill } from "react-icons/bs";

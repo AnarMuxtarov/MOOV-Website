@@ -1,0 +1,35 @@
+
+
+.filter-buttons button {
+  margin: 0 10px;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  background-color: #f1f1f1;
+  border-radius: 5px;
+}
+
+.filter-buttons button:hover {
+  background-color: #dcdcdc;
+}
+
+.movie-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  margin-top: 20px;
+}
+
+#Home-Category .container{
+ display:block;
+ text-align:center;
+
+}
+
+.movie-card {
+  background-color: #222;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+}

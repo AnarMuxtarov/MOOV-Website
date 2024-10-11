@@ -1,7 +1,7 @@
 import React from 'react'
 import { FaRegCheckCircle } from "react-icons/fa";
 import { BiMinusCircle } from "react-icons/bi";
-import "../PriceModel/PriceModel.css"
+import "./PriceModel.css"
 
 const PriceModel = () => {
   return (

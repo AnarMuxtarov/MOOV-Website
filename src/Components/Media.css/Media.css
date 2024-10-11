@@ -136,6 +136,14 @@
       }
   /*------------------ Header resposive end------------------ */
 
+  .homeBanner-content{
+    width: 100%;
+ 
+    
+    }
+
+
+
   /*------------------ Our-services responsive start------------------ */
   .our-Services-left {
     width: 70%;
@@ -474,6 +482,14 @@
 
 
 
+  .homeBanner-content h2{
+    font-size: 40px;
+
+
+    
+
+  
+}
 
 
 
