@@ -1,5 +1,5 @@
 import React from "react";
-import "../../Components/ContactBanner/ContactBanner.css";
+import "./ContactBanner.css";
 
 const ContactBanner = () => {
   return (

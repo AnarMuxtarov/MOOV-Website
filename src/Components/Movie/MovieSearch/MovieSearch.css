@@ -1,0 +1,55 @@
+#Movie-Search {
+  text-align: center;
+  background-color:#121318;
+  padding: 70px 0;
+}
+
+#Movie-Search h2 {
+  margin: 15px;
+  font-family: "Antic Slab", serif;
+  letter-spacing: 1.3px;
+  color: white;
+  margin-bottom: 0;
+    font-size: 36px;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    margin-top: 0px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+#Movie-Search input {
+  width: 500px;
+  padding: 14px 20px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+  border: 0.3px solid black;
+  /* background-color: #363062; */
+  background-color: #6f6e72;
+  color: white;
+  border: none;
+}
+#Movie-Search input::placeholder {
+  color: white;
+}
+#Movie-Search input:focus {
+  outline: none;
+}
+
+#Movie-Search h2 {
+  margin-top: 10px;
+  font-family: "Antic Slab", serif;
+}
+
+#Movie-Search .parent_data {
+  text-align: center;
+  gap: 20px;
+  align-items: center;
+}
+
+#Movie-Search .parent_data .container {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 5px;
+}

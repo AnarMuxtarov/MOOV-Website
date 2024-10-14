@@ -1,19 +1,15 @@
-#PricingBanner{
-    background-image: url("../../assets/images/pricingbanner.jpg");
+#ContactBanner{
+    background-image: url("../../../assets/Images/Contact-landingBg.jpg");
     background-position: center center;
     background-size: cover;
+    height: 100%;
     position: relative;
     z-index: 999;
-    display: flex;
-    background-repeat: no-repeat;
-    height: 200px;
-    
-
 
 }
 
 
-#PricingBanner .container{
+#ContactBanner .container{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -21,7 +17,7 @@
    
 }
 
-.PricingBanner-content{
+.contactBanner-content{
 
 padding: 50px 0;
 position: relative;
@@ -32,7 +28,7 @@ flex-direction: column;
 text-align: center;
 }
 
-.PricingBanner-content h2{
+.contactBanner-content h2{
     color: #F4F4F4;
     font-family:"Oswald"; 
     font-size: 4rem;
@@ -51,10 +47,10 @@ text-align: center;
     height: 100%;
     z-index: -1;
     }
-    .PricingBanner-content p{
+    .contactBanner-content p{
     color:#c7afaf
     }
 
-    .PricingBanner-content a{
+    .contactBanner-content a{
        color:#f6be00
     }

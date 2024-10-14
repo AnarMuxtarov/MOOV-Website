@@ -9,7 +9,7 @@ import data from './data.json';
 
 const PaginatedMovies = () => {
   const [currentPage, setCurrentPage] = useState(1); // cari səhifə
-  const [moviesPerPage] = useState(9); // hər səhifədə neçə element olmalıdır
+  const [moviesPerPage] = useState(12); // hər səhifədə neçə element olmalıdır
 
   // Cari səhifədə göstərəcəyiniz məlumatın indeksi
   const indexOfLastMovie = currentPage * moviesPerPage;

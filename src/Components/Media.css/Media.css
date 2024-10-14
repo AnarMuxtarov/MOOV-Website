@@ -256,6 +256,28 @@
  }
 
 
+
+
+
+ .movies-grid .container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.movieGrid {
+
+  grid-template-columns: repeat(3, 1fr);
+}
+
+/* MovieSearch start */
+#Movie-Search .parent_data .container {
+  grid-template-columns: repeat(4, 1fr);
+}
+/* MovieSearch end */
+
+
+
 }
 
 
@@ -352,6 +374,25 @@
  }
 
 
+
+ .movies-grid .container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+.movieGrid {
+
+  grid-template-columns: repeat(2, 1fr);
+}
+
+
+/* MovieSearch start */
+#Movie-Search .parent_data .container {
+  grid-template-columns: repeat(3, 1fr);
+}
+/* MovieSearch end */
+
+
 }
 
 /* mobile */
@@ -361,9 +402,9 @@
     max-width: 580px;
   }
 
-  p {
+  /* p {
     width: 520px;
-  }
+  } */
 
   .service-card {
     flex-direction: column;
@@ -414,6 +455,21 @@
   
   }
 
+
+  .movie-card {
+ 
+    width: 250px;
+}
+
+
+/* MovieSearch start */
+#Movie-Search .parent_data .container {
+  grid-template-columns: repeat(2, 1fr);
+}
+/* MovieSearch end */
+
+
+
 }
 /* mobile */
 
@@ -421,9 +477,9 @@
   .container {
     max-width: 380px;
   }
-  p {
+  /* p {
     width: 380px;
-  }
+  } */
 
 
 
@@ -469,6 +525,9 @@
 
 
 }
+
+
+
 }
 /* mobile */
 
@@ -538,6 +597,43 @@
     display: block;
    }
 
+
+   .movies-grid .container {
+
+    grid-template-columns: repeat(1, 1fr);
+ 
+  }
+
+  .movie-card {
+ 
+    width: 350px;
 }
 
+   .movie-top {
+
+    flex-direction: column;
+}
+
+
+.movieGrid {
+  grid-template-columns: repeat(1, 1fr);
+}
+
+.movieCard {
+  width: 350px;}
+
+#HomeBanner {
+
+  margin-top: -12%;
+}
+
+
+/* MovieSearch start */
+#Movie-Search .parent_data .container {
+  grid-template-columns: repeat(1, 1fr);
+}
+/* MovieSearch end */
+
+
+}
 /* mobile */

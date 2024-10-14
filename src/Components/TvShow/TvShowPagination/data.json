@@ -1,466 +1,677 @@
+[
+  {
+    "id": 1,
+    "title": "Gunner",
+    "year": 2024,
+    "category": "Action Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/gunner_list.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Line Walker 2",
+    "year": 2019,
+    "category": "Action Movie",
+    "quality": "Hd",
+    "rating": 5,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/line-walker-2-izle_list.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Android Cop",
+    "year": 2014,
+    "category": "Action Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/hd-android-cop-hd-film-izle_list.jpg"
+  },
 
+  {
+    "id": 4,
+    "title": "The Vedaa",
+    "year": 2024,
+    "category": "Action Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/vedaa_list.jpg"
+  },
+  {
+    "id": 5,
+    "title": "The Beekeeper",
+    "year": 2024,
+    "category": "Action Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-beekeeper_list.jpg"
+  },
+  {
+    "id": 6,
+    "title": "The Gladiator",
+    "year": 2000,
+    "category": "Action Movie",
+    "quality": "Hd",
+    "rating": 5,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/gladyator-izle-hd_list.jpg"
+  },
 
-    [
+  {
+    "id": 7,
+    "title": "My Fault",
+    "year": 2024,
+    "category": "Action Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/culpa-mia_list.jpg"
+  },
+  {
+    "id": 8,
+    "title": "The Duchess",
+    "year": 2024,
+    "category": "Action Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/duchess_list.jpg"
+  },
+  {
+    "id": 9,
+    "title": "The Revenge",
+    "year": 2023,
+    "category": "Action Movie",
+    "quality": "Hd",
+    "rating": 9,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/bang-bang-betty-valerie-s-revenge_list.jpg"
+  },
 
-        {
-            "id": 1,
-            "title": "Gunner",
-            "year": 2024,
-            "category": "Action Movie ",
-            "rating": 10,
-            "image": "https://www.hdfilmcehennemi.sh/uploads/poster/gunner_list.jpg"
-          },
-          {
-            "id": 2,
-            "title": "Line Walker 2",
-            "year": 2019,
-            "category": "Action Movie ",
-            "rating": 10,
-            "image": "https://www.hdfilmcehennemi.sh/uploads/poster/line-walker-2-izle_list.jpg"
-          },
-          {
-            "id": 3,
-            "title": "Android Cop",
-            "year": 2014,
-            "category": "Action Movie ",
-            "rating": 10,
-            "image":"https://www.hdfilmcehennemi.sh/uploads/poster/hd-android-cop-hd-film-izle_list.jpg"
-          },
+  {
+    "id": 10,
+    "title": "The Source",
+    "year": 2024,
+    "category": "Action Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-source_list.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Wanted Man",
+    "year": 2024,
+    "category": "Action Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/wanted-man_list.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Cash Out",
+    "year": 2024,
+    "category": "Action Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/cash-out_list.jpg"
+  },
 
+  {
+    "id": 13,
+    "title": "New Life",
+    "year": 2024,
+    "category": "Horror Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/new-life_list.jpg"
+  },
 
-          {
-            "id": 4,
-            "title": "The Vedaa",
-            "year": 2024,
-            "category": "Action Movie",
-            "rating": 10,
-            "image": "https://www.hdfilmcehennemi.sh/uploads/poster/vedaa_list.jpg"
-          },
-          {
-            "id": 5,
-            "title": "The Beekeeper",
-            "year": 2024,
-            "category": "Action Movie",
-            "rating": 10,
-            "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-beekeeper_list.jpg"
-          },
-          {
-            "id": 6,
-            "title": "The Gladiator",
-            "year": 2000,
-            "category": "Action Movie",
-            "rating": 10,
-            "image": "https://www.hdfilmcehennemi.sh/uploads/poster/gladyator-izle-hd_list.jpg"
-          },
+  {
+    "id": 14,
+    "title": "The Reef",
+    "year": 2010,
+    "category": "Horror Movie",
+    "quality": "Hd",
+    "rating": 5,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/hd-denizin-disleri_list.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Humane",
+    "year": 2024,
+    "category": "Horror Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/humane_list.jpg"
+  },
 
-          {
-            "id": 7,
-            "title": "My Fault",
-            "year": 2024,
-            "category": "Action Movie",
-            "rating": 10,
-            "image": "https://www.hdfilmcehennemi.sh/uploads/poster/culpa-mia_list.jpg"
-          },
-          {
-            "id": 8,
-            "title": "The Duchess",
-            "year": 2024,
-            "category": "Action Movie"
-            ,
-            "rating": 10,
-            "image": "https://www.hdfilmcehennemi.sh/uploads/poster/duchess_list.jpg"
-          },
-          {
-              "id": 9,
-              "title": "The Revenge",
-              "year": 2023,
-              "category": "Action Movie",
-              "rating": 10,
-              "image": "https://www.hdfilmcehennemi.sh/uploads/poster/bang-bang-betty-valerie-s-revenge_list.jpg"
-            },
-         
-          {
-            "id": 10,
-            "title": "New Life",
-            "year": 2024,
-            "category": "Horror Movie",
-            "rating": 10,
-            "image": "https://www.hdfilmcehennemi.sh/uploads/poster/new-life_list.jpg"
-          },
+  {
+    "id": 16,
+    "title": "Night Hunt",
+    "year": 2024,
+    "category": "Horror Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/bloodline-killer_list.jpg"
+  },
+  {
+    "id": 17,
+    "title": "The Refuge",
+    "year": 2023,
+    "category": "Horror Movie",
+    "quality": "Hd",
+    "rating": 9,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/refuge_list.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Model House",
+    "year": 2024,
+    "category": "Horror Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/model-house_list.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Monster",
+    "year": 2023,
+    "category": "Horror Movie",
+    "quality": "Hd",
+    "rating": 9,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/monster-hdfc-indonesia_list.jpg"
+  },
+  {
+    "id": 20,
+    "title": "The Byte",
+    "year": 2023,
+    "category": "Horror Movie",
+    "quality": "Hd",
+    "rating": 9,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/byte_list.jpg"
+  },
+  {
+    "id": 21,
+    "title": "The Romi",
+    "year": 2023,
+    "category": "Horror Movie",
+    "quality": "Hd",
+    "rating": 9,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/romi_list.jpg"
+  },
 
-          {
-            "id": 11,
-            "title": "The Reef",
-            "year": 2010,
-            "category": "Horror Movie",
-            "rating": 10,
-            "image": "https://www.hdfilmcehennemi.sh/uploads/poster/hd-denizin-disleri_list.jpg"
-          },
-          {
-            "id": 12,
-            "title": "Humane",
-            "year": 2024,
-            "category": "Horror Movie",
-            "rating": 10,
-            "image": "https://www.hdfilmcehennemi.sh/uploads/poster/humane_list.jpg"
-          },
+  {
+    "id": 22,
+    "title": "Terrifier 3",
+    "year": 2024,
+    "category": "Horror Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/terrifier-3-hdfc_list.jpg"
+  },
+  {
+    "id": 23,
+    "title": "The Guadrant",
+    "year": 2024,
+    "category": "Horror Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/quadrant_list.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Turning of",
+    "year": 2023,
+    "category": "Horror Movie",
+    "quality": "Hd",
+    "rating": 9,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/don-t-turn-out-the-lights_list.jpg"
+  },
 
+  {
+    "id": 25,
+    "title": "Basmati Blues",
+    "year": 2023,
+    "category": "Romantic Movie",
+    "quality": "Hd",
+    "rating": 9,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/basmati-blues_list.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Haunted Heart",
+    "year": 2024,
+    "category": "Romantic Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/haunted-heart_list.jpg"
+  },
+  {
+    "id": 27,
+    "title": "Gajok X Melo (2024)",
+    "year": 2024,
+    "category": "Romantic Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/romance-in-the-house_list.jpg"
+  },
+  {
+    "id": 28,
+    "title": "Creature",
+    "year": 2024,
+    "category": "Romantic Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-beast_list.jpg"
+  },
 
-          {
-            "id": 13,
-            "title": "Night Hunt",
-            "year": 2024,
-            "category": "Horror Movie",
-            "rating": 10,
-            "image": "https://www.hdfilmcehennemi.sh/uploads/poster/bloodline-killer_list.jpg"
-          },
-          {
-            "id": 14,
-            "title": "The Refuge",
-            "year": 2023,
-            "category": "Horror Movie",
-            "rating": 10,
-            "image": "https://www.hdfilmcehennemi.sh/uploads/poster/refuge_list.jpg"
-          },
-          {
-              "id": 15,
-              "title": "Model House",
-              "year": 2024,
-              "category": "Horror Movie",
-              "rating": 10,
-              "image": "https://www.hdfilmcehennemi.sh/uploads/poster/model-house_list.jpg"
-            },
-            {
-              "id": 16,
-              "title": "Monster",
-              "year": 2023,
-              "category": "Horror Movie",
-              "rating": 10,
-              "image": "https://www.hdfilmcehennemi.sh/uploads/poster/monster-hdfc-indonesia_list.jpg"
-            },
-            {
-              "id": 17,
-              "title": "The Byte",
-              "year": 2023,
-              "category": "Horror Movie",
-              "rating": 10,
-              "image": "https://www.hdfilmcehennemi.sh/uploads/poster/byte_list.jpg"
-            },
-            {
-              "id": 18,
-              "title": "The Romi",
-              "year": 2023,
-              "category": "Horror Movie",
-              "rating": 10,
-              "image": "https://www.hdfilmcehennemi.sh/uploads/poster/romi_list.jpg"
-            },
-            {
-              "id": 19,
-              "title": "Basmati Blues",
-              "year": 2023,
-              "category": "Romantic Movie",
-              "rating": 10,
-              "image": "https://www.hdfilmcehennemi.sh/uploads/poster/basmati-blues_list.jpg"
-            },
-            {
-              "id": 20,
-              "title": "Haunted Heart",
-              "year": 2024,
-              "category": "Romantic Movie",
-              "rating": 10,
-              "image": "https://www.hdfilmcehennemi.sh/uploads/poster/haunted-heart_list.jpg"
-            },
-            {
-              "id": 21,
-              "title": "Gajok X Melo (2024)",
-              "year": 2024,
-              "category": "Romantic Movie",
-              "rating": 10,
-              "image":"https://www.hdfilmcehennemi.sh/uploads/poster/romance-in-the-house_list.jpg"
-            },
-            {
-              "id": 22,
-              "title": "Creature",
-              "year": 2024,
-              "category": "Romantic Movie",
-              "rating": 10,
-              "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-beast_list.jpg"
-            },
-  
-            {
-              "id": 23,
-              "title": "Season of love",
-              "year": 2024,
-              "category": "Romantic Movie",
-              "rating": 10,
-              "image": "https://www.hdfilmcehennemi.sh/uploads/poster/a%EF%BE%85%E6%AE%98-mevsimi_list.jpg"
-            },
-            {
-              "id": 24,
-              "title": "Beautiful Wedding",
-              "year": 2024,
-              "category": "Romantic Movie",
-              "rating": 10,
-              "image": "https://www.hdfilmcehennemi.sh/uploads/poster/beautiful-wedding_list.jpg"
-            },
+  {
+    "id": 29,
+    "title": "Season of love",
+    "year": 2024,
+    "category": "Romantic Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/a%EF%BE%85%E6%AE%98-mevsimi_list.jpg"
+  },
+  {
+    "id": 30,
+    "title": "Beautiful Wedding",
+    "year": 2024,
+    "category": "Romantic Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/beautiful-wedding_list.jpg"
+  },
 
-            {
-                "id": 25,
-                "title": "Beautiful Disaster",
-                "year": 2023,
-                "category": "Romantic Movie",
-                "rating": 10,
-                "image": "https://www.hdfilmcehennemi.sh/uploads/poster/beautiful-disaster_list.jpg"
-              },
-              {
-                "id": 26,
-                "title": "The Float",
-                "year": 2024,
-                "category": "Romantic Movie",
-                "rating": 10,
-                "image": "https://www.hdfilmcehennemi.sh/uploads/poster/float_list.jpg"
-              },
-              {
-                  "id": 27,
-                  "title": "Winter castle",
-                  "year": 2019,
-                  "category": "Romantic Movie",
-                  "rating": 10,
-                  "image": "https://www.hdfilmcehennemi.sh/uploads/poster/winter-castle_list.jpg"
-                },
-                {
-                  "id": 28,
-                  "title": "Oh brother",
-                  "year": 2022,
-                  "category": "Comedy Movie",
-                  "rating": 10,
-                  "image": "https://www.hdfilmcehennemi.sh/uploads/poster/ah-be-birader_list.jpg"
-                },
-                {
-                  "id": 29,
-                  "title": "Summer Camp",
-                  "year": 2024,
-                  "category": "Comedy Movie",
-                  "rating": 10,
-                  "image": "https://www.hdfilmcehennemi.sh/uploads/poster/summer-camp_list.jpg"
-                },
-                {
-                  "id": 30,
-                  "title": "The Jackpot",
-                  "year": 2024,
-                  "category": "Comedy Movie",
-                  "rating": 10,
-                  "image": "https://www.hdfilmcehennemi.sh/uploads/poster/jackpot_list.jpg"
-                },
-                {
-                  "id": 31,
-                  "title": "Bad monkey",
-                  "year": 2024,
-                  "category": "Comedy Movie",
-                  "rating": 10,
-                  "image": "https://www.hdfilmcehennemi.sh/uploads/poster/bad-monkey_list.jpg"
-                },
-                {
-                  "id": 32,
-                  "title": "First Daughter",
-                  "year": 2004,
-                  "category": "Comedy Movie",
-                  "rating": 10,
-                  "image": "https://www.hdfilmcehennemi.sh/uploads/poster/first-daughter_list.jpg"
-                },
-                {
-                  "id": 33,
-                  "title": "Mothers Boy",
-                  "year": 2022,
-                  "category": "Comedy Movie",
-                  "rating": 10,
-                  "image":"https://www.hdfilmcehennemi.sh/uploads/poster/ana-kuzusu_list.jpg"
-                },
-                {
-                  "id": 34,
-                  "title": "The Duel",
-                  "year": 2024,
-                  "category": "Comedy Movie",
-                  "rating": 10,
-                  "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-duel_list.jpg"
-                },
-      
-                {
-                  "id": 35,
-                  "title": "Swindler Mortdecai",
-                  "year": 2015,
-                  "category": "Comedy Movie",
-                  "rating": 10,
-                  "image": "https://www.hdfilmcehennemi.sh/uploads/poster/uckagitci-mortdecai-izle_list.jpg"
-                },
-                {
-                  "id": 36,
-                  "title": "The Myth",
-                  "year": 2024,
-                  "category": "Comedy Movie",
-                  "rating": 10,
-                  "image": "https://www.hdfilmcehennemi.sh/uploads/poster/efsane_list.jpg"
-                },
-      
-      
-                {
-                  "id": 37,
-                  "title": "The Renfiel",
-                  "year": 2023,
-                  "category": "Fantasy Movie",
-                  "rating": 10,
-                  "image": "https://www.hdfilmcehennemi.sh/uploads/poster/renfield_list.jpg"
-                },
-                {
-                  "id": 38,
-                  "title": "The Pauline",
-                  "year": 2024,
-                  "category": "Fantasy Movie",
-                  "rating": 10,
-                  "image": "https://www.hdfilmcehennemi.sh/uploads/poster/pauline_list.jpg"
-                },
-                {
-                    "id": 39,
-                    "title": "Chostbusters Chill",
-                    "year": 2024,
-                    "category": "Fantasy Movie",
-                    "rating": 10,
-                    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/ghostbusters-frozen-empire_list.jpg"
-                  },
-                  {
-                    "id": 40,
-                    "title": "The Marvels",
-                    "year": 2023,
-                    "category": "Fantasy Movie",
-                    "rating": 10,
-                    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-marvels_list.jpg"
-                  },
-                  {
-                    "id": 41,
-                    "title": "Hanu Man",
-                    "year": 2024,
-                    "category": "Fantasy Movie",
-                    "rating": 10,
-                    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/hanu-man_list.jpg"
-                  },
-                  {
-                    "id": 42,
-                    "title": "Hocus Pocus",
-                    "year": 1993,
-                    "category": "Fantasy Movie",
-                    "rating": 10,
-                    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/hocus-pocus_list.jpg"
-                  },
-                  {
-                    "id": 43,
-                    "title": "Secret Garden",
-                    "year": 2020,
-                    "category": "Fantasy Movie",
-                    "rating": 10,
-                    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-secret-garden-izle_list.jpg"
-                  },
-                  {
-                    "id": 44,
-                    "title": "Monster High 2",
-                    "year": 2023,
-                    "category": "Fantasy Movie",
-                    "rating": 10,
-                    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/monster-high-2_list.jpg"
-                  },
-                  {
-                    "id": 45,
-                    "title": "Little Mermaid",
-                    "year": 2023,
-                    "category": "Fantasy Movie",
-                    "rating": 10,
-                    "image":"https://www.hdfilmcehennemi.sh/uploads/poster/the-little-mermaid-hdfc_list.jpg"
-                  },
-                  {
-                    "id": 46,
-                    "title": "Before Dawn",
-                    "year": 2024,
-                    "category": "War Movie",
-                    "rating": 10,
-                    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/before-dawn_list.jpg"
-                  },
-        
-                  {
-                    "id": 47,
-                    "title": "Devils Men",
-                    "year": 2023,
-                    "category":"War Movie",
-                    "rating": 10,
-                    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/devil-s-men_list.jpg"
-                  },
-                  {
-                    "id": 48,
-                    "title": "War Trap",
-                    "year": 2022,
-                    "category":"War Movie",
-                    "rating": 10,
-                    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/war-trap_list.jpg"
-                  },
+  {
+    "id": 31,
+    "title": "Beautiful Disaster",
+    "year": 2023,
+    "category": "Romantic Movie",
+    "quality": "Hd",
+    "rating": 9,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/beautiful-disaster_list.jpg"
+  },
+  {
+    "id": 32,
+    "title": "The Float",
+    "year": 2024,
+    "category": "Romantic Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/float_list.jpg"
+  },
+  {
+    "id": 33,
+    "title": "Winter castle",
+    "year": 2019,
+    "category": "Romantic Movie",
+    "quality": "Hd",
+    "rating": 5,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/winter-castle_list.jpg"
+  },
 
-                  {
-                    "id": 49,
-                    "title": "The Berenshtein",
-                    "year": 2021,
-                    "category":"War Movie",
-                    "rating": 10,
-                    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/berenshtein_list.jpg"
-                  },
-        
-                  {
-                    "id": 50,
-                    "title": "The Team",
-                    "year": 2018,
-                    "category":"War Movie",
-                    "rating": 10,
-                    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/t-i-m_list.jpg"
-                  },
-                  {
-                    "id": 51,
-                    "title": "The BattleBox",
-                    "year": 2023,
-                    "category":"War Movie",
-                    "rating": 10,
-                    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/battlebox_list.jpg"
-                  },
-                  
-                  {
-                    "id": 52,
-                    "title": "Railway Heroes",
-                    "year": 2021,
-                    "category":"War Movie",
-                    "rating": 10,
-                    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/railway-heroes_list.jpg"
-                  },
+  {
+    "id": 34,
+    "title": "maxton Hall",
+    "year": 2023,
+    "category": "Romantic Movie",
+    "quality": "Hd",
+    "rating": 9,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/maxton-hall-the-world-between-us_list.jpg"
+  },
+  {
+    "id": 35,
+    "title": "Art of Love",
+    "year": 2024,
+    "category": "Romantic Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/art-of-love_list.jpg"
+  },
+  {
+    "id": 36,
+    "title": "The Roommate",
+    "year": 2019,
+    "category": "Romantic Movie",
+    "quality": "Hd",
+    "rating": 5,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-roommate-hdfc_list.jpg"
+  },
 
-                  
-                  {
-                    "id": 53,
-                    "title": "Under Fire",
-                    "year": 2010,
-                    "category":"War Movie",
-                    "rating": 10,
-                    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/71-into-the-fire_list.jpg"
-                  },
+  {
+    "id": 37,
+    "title": "Oh brother",
+    "year": 2022,
+    "category": "Comedy Movie",
+    "quality": "Hd",
+    "rating": 8,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/ah-be-birader_list.jpg"
+  },
+  {
+    "id": 38,
+    "title": "Summer Camp",
+    "year": 2024,
+    "category": "Comedy Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/summer-camp_list.jpg"
+  },
+  {
+    "id": 39,
+    "title": "The Jackpot",
+    "year": 2024,
+    "category": "Comedy Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/jackpot_list.jpg"
+  },
+  {
+    "id": 40,
+    "title": "Bad monkey",
+    "year": 2024,
+    "category": "Comedy Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/bad-monkey_list.jpg"
+  },
+  {
+    "id": 41,
+    "title": "First Daughter",
+    "year": 2004,
+    "category": "Comedy Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/first-daughter_list.jpg"
+  },
+  {
+    "id": 42,
+    "title": "Mothers Boy",
+    "year": 2022,
+    "category": "Comedy Movie",
+    "quality": "Hd",
+    "rating": 8,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/ana-kuzusu_list.jpg"
+  },
+  {
+    "id": 43,
+    "title": "The Duel",
+    "year": 2024,
+    "category": "Comedy Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-duel_list.jpg"
+  },
 
-                  
-                  {
-                    "id": 54,
-                    "title": "The Wall",
-                    "year": 2017,
-                    "category":"War Movie",
-                    "rating": 10,
-                    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/1-sniper-duvar-izle_list.jpg"
-                  }
+  {
+    "id": 44,
+    "title": "Swindler Mortdecai",
+    "year": 2015,
+    "category": "Comedy Movie",
+    "quality": "Hd",
+    "rating": 5,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/uckagitci-mortdecai-izle_list.jpg"
+  },
+  {
+    "id": 45,
+    "title": "The Myth",
+    "year": 2024,
+    "category": "Comedy Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/efsane_list.jpg"
+  },
 
+  {
+    "id": 46,
+    "title": "Kingpin Katie",
+    "year": 2024,
+    "category": "Comedy Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/kingpin-katie_list.jpg"
+  },
 
+  {
+    "id": 47,
+    "title": "Chick Fight",
+    "year": 2020,
+    "category": "Comedy Movie",
+    "quality": "Hd",
+    "rating": 6,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/chick-fight-izle_list.jpg"
+  },
+  {
+    "id": 48,
+    "title": "Lobola Man",
+    "year": 2024,
+    "category": "Comedy Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/lobola-man_list.jpg"
+  },
 
-       
-      ]
-      
+  {
+    "id": 49,
+    "title": "The Renfiel",
+    "year": 2023,
+    "category": "Fantasy Movie",
+    "quality": "Hd",
+    "rating": 9,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/renfield_list.jpg"
+  },
+  {
+    "id": 50,
+    "title": "The Pauline",
+    "year": 2024,
+    "category": "Fantasy Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/pauline_list.jpg"
+  },
+  {
+    "id": 51,
+    "title": "Chostbusters Chill",
+    "year": 2024,
+    "category": "Fantasy Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/ghostbusters-frozen-empire_list.jpg"
+  },
+  {
+    "id": 52,
+    "title": "The Marvels",
+    "year": 2023,
+    "category": "Fantasy Movie",
+    "quality": "Hd",
+    "rating": 9,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-marvels_list.jpg"
+  },
+  {
+    "id": 53,
+    "title": "Hanu Man",
+    "year": 2024,
+    "category": "Fantasy Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/hanu-man_list.jpg"
+  },
+  {
+    "id": 54,
+    "title": "Hocus Pocus",
+    "year": 1993,
+    "category": "Fantasy Movie",
+    "quality": "Hd",
+    "rating": 5,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/hocus-pocus_list.jpg"
+  },
+  {
+    "id": 55,
+    "title": "Secret Garden",
+    "year": 2020,
+    "category": "Fantasy Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-secret-garden-izle_list.jpg"
+  },
+  {
+    "id": 56,
+    "title": "Monster High 2",
+    "year": 2023,
+    "category": "Fantasy Movie",
+    "quality": "Hd",
+    "rating": 9,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/monster-high-2_list.jpg"
+  },
+  {
+    "id": 57,
+    "title": "Little Mermaid",
+    "year": 2023,
+    "category": "Fantasy Movie",
+    "quality": "Hd",
+    "rating": 9,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-little-mermaid-hdfc_list.jpg"
+  },
 
+  {
+    "id": 58,
+    "title": "Hocus Pocus 2",
+    "year": 2022,
+    "category": "Fantasy Movie",
+    "quality": "Hd",
+    "rating": 8,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/hocus-pocus-2_list.jpg"
+  },
+  {
+    "id": 59,
+    "title": "Magic Flute",
+    "year": 2022,
+    "category": "Fantasy Movie",
+    "quality": "Hd",
+    "rating": 8,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-magic-flute_list.jpg"
+  },
+  {
+    "id": 60,
+    "title": "The Goosebumps",
+    "year": 2023,
+    "category": "Fantasy Movie",
+    "quality": "Hd",
+    "rating": 9,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/goosebumps_list.jpg"
+  },
 
+  {
+    "id": 61,
+    "title": "Before Dawn",
+    "year": 2024,
+    "category": "War Movie",
+    "quality": "Hd",
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/before-dawn_list.jpg"
+  },
 
+  {
+    "id": 62,
+    "title": "Devils Men",
+    "year": 2023,
+    "category": "War Movie",
+    "quality": "Hd",
+    "rating": 9,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/devil-s-men_list.jpg"
+  },
+  {
+    "id": 63,
+    "title": "War Trap",
+    "year": 2022,
+    "category": "War Movie",
+    "quality": "Hd",
+    "rating": 8,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/war-trap_list.jpg"
+  },
+
+  {
+    "id": 64,
+    "title": "The Berenshtein",
+    "year": 2021,
+    "category": "War Movie",
+    "quality": "Hd",
+    "rating": 7,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/berenshtein_list.jpg"
+  },
+
+  {
+    "id": 65,
+    "title": "The Team",
+    "year": 2018,
+    "category": "War Movie",
+    "quality": "Hd",
+    "rating": 5,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/t-i-m_list.jpg"
+  },
+  {
+    "id": 66,
+    "title": "The BattleBox",
+    "year": 2023,
+    "category": "War Movie",
+    "quality": "Hd",
+    "rating": 9,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/battlebox_list.jpg"
+  },
+
+  {
+    "id": 68,
+    "title": "Railway Heroes",
+    "year": 2021,
+    "category": "War Movie",
+    "quality": "Hd",
+    "rating": 7,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/railway-heroes_list.jpg"
+  },
+
+  {
+    "id": 69,
+    "title": "Under Fire",
+    "year": 2010,
+    "category": "War Movie",
+    "quality": "Hd",
+    "rating": 5,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/71-into-the-fire_list.jpg"
+  },
+
+  {
+    "id": 70,
+    "title": "The Wall",
+    "year": 2017,
+    "category": "War Movie",
+    "quality": "Hd",
+    "rating": 5,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/1-sniper-duvar-izle_list.jpg"
+  },
+
+  {
+    "id": 71,
+    "title": "The Fox",
+    "year": 2023,
+    "category": "War Movie",
+    "quality": "Hd",
+    "rating": 9,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-fox_list.jpg"
+  },
+
+  {
+    "id": 72,
+    "title": "The Clemency",
+    "year": 2023,
+    "category": "War Movie",
+    "quality": "Hd",
+    "rating": 9,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/clemency_list.jpg"
+  },
+
+  {
+    "id": 73,
+    "title": "The Bunker",
+    "year": 2023,
+    "category": "War Movie",
+    "quality": "Hd",
+    "rating": 9,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/bunker_list.jpg"
+  }
+]

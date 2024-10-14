@@ -19,7 +19,7 @@ const HomeCategoryOne = () => {
   return (
     <div id="Home-Category">
       <div className="container">
-      <span>ONLINE STREAMING</span>
+      <span className="category-subtitle">ONLINE STREAMING</span>
       <h2>Top Rated Movies</h2>
 
 {/* Filter buttons */}
@@ -38,20 +38,21 @@ const HomeCategoryOne = () => {
 
 
         {/* Movie cards */}
-        <div className="movie-grid">
+        <div className="movieGrid">
         
-          {filteredMovies.map((movie) => (
-            <div key={movie.id} className="movie-card">
-                       
+        {filteredMovies.map((movie) => (
+            <div key={movie.id} className="movieCard">
+                       <div className="card-contents">
             <img src={movie.image} alt={movie.title} />
-          
+            <div className="movie-top">
             <h3>{movie.title}</h3>
             <p>{movie.year}</p>
-   
-     
-            <p>{movie.category} </p>
+            </div>
+            <div className="movie-bottom">
+            <p>{movie.quality}</p>
             <p>rating: {movie.rating}</p>
-     
+            </div>
+            </div>
             </div>
            
           ))}

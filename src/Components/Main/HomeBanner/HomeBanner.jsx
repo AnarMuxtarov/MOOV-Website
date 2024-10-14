@@ -23,7 +23,7 @@ const HomeBanner = () => {
                   horror
                 </a>
               </li>
-              <li class="release-time">
+              <li className="release-time">
                 <span>
                   <BsBadge4kFill />
                   2023
