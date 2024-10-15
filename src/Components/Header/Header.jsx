@@ -23,11 +23,12 @@ const Header = () => {
 
   
  <ul  className="navigation " >
-<li className="navigation-link"><NavLink to="/home"> Home </NavLink></li>
+<li className="navigation-link"><NavLink to="/"> Home </NavLink></li>
 <li className="navigation-link"><NavLink to="/movie">Movie</NavLink></li>
 <li className="navigation-link"><NavLink to="/tvShow">tv show</NavLink></li>
 <li className="navigation-link"><NavLink to="/pricing">Pricing</NavLink></li>
 <li className="navigation-link"><NavLink to="/contacts">contacts</NavLink></li>
+
  </ul>
   
 

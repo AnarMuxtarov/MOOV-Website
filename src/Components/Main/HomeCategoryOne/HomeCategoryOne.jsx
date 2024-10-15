@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import movies from "../../TvShow/TvShowPagination/data.json";
 import "./HomeCategoryOne.css";
+import { Link } from "react-router-dom";
 
 const HomeCategoryOne = () => {
   const [selectedCategory, setSelectedCategory] = useState("Horror Movie");
@@ -43,7 +44,7 @@ const HomeCategoryOne = () => {
         {filteredMovies.map((movie) => (
             <div key={movie.id} className="movieCard">
                        <div className="card-contents">
-            <img src={movie.image} alt={movie.title} />
+            <Link to={`/movie/${movie.id}`}><img src={movie.image} alt={movie.title} /></Link>
             <div className="movie-top">
             <h3>{movie.title}</h3>
             <p>{movie.year}</p>
