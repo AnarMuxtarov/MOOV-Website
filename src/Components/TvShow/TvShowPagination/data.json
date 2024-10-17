@@ -113,7 +113,7 @@
 
   {
     "id": 13,
-    "title": "New Life",
+    "title": "The New Life",
     "year": 2024,
     "category": "Horror Movie",
     "quality": "Hd",
@@ -128,7 +128,11 @@
     "category": "Horror Movie",
     "quality": "Hd",
     "rating": 5,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/hd-denizin-disleri_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/hd-denizin-disleri_list.jpg",
+    "duration": 128,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "watchLink": "https://link-to-watch.com",
+    "downloadLink": "https://link-to-download.com"
   },
   {
     "id": 15,
