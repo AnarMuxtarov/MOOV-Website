@@ -1,20 +1,14 @@
 @media (max-width: 1600px) {
-
-
-
-  
-   /*------------------ Footer resposive start------------------ */
+  /*------------------ Footer resposive start------------------ */
   .footer-top .nav-text {
     margin-left: 30px;
     gap: 20px;
   }
-   /*------------------ Footer resposive end------------------ */
+  /*------------------ Footer resposive end------------------ */
 }
 /* destop */
 
 @media (max-width: 1280px) {
-
-
   .container {
     max-width: 1230px;
   }
@@ -33,13 +27,9 @@
 /* tablet */
 
 @media (max-width: 1120px) {
-  .footer-top .nav-text {
-    margin-left: 30px;
-  }
   .container {
     max-width: 1108px;
   }
-
   /*------------------ Membership responsive start------------------ */
   .membership-left h4 {
     font-size: 23px;
@@ -48,28 +38,26 @@
     font-size: 13px;
   }
   /*------------------ Membership responsive end------------------ */
+
+  /*------------------ Footer responsive start------------------ */
+  .footer-top .nav-text {
+    margin-left: 30px;
+  }
+  /*------------------ Footer responsive end------------------ */
 }
 /* tablet */
 
 @media (max-width: 941px) {
-  
-  .footer-top .nav-text {
-    margin-left: 0px;
-  }
   .container {
     max-width: 830px;
-    /* max-width: 900px; */
     flex-direction: column;
-    /* gap: 5rem; */
-    
   }
-   /*------------------ Header resposive start------------------ */
+  /*------------------ Header resposive start------------------ */
   header .container {
     flex-direction: row;
   }
   .toggle-btn {
     display: block !important;
-
   }
   .navigation {
     display: none !important;
@@ -77,72 +65,50 @@
   header .btn {
     display: none !important;
   }
-
-  header .nav-link{
-   flex-direction: column;
-   justify-content: space-evenly;
-   background-color: #1a191f;
-   position: absolute;
-   width: 220px;
-   height: 100%;
-
-   padding: 30px 30px 0;
-   top:48px;
-   right:-300px;
-   z-index: 1000;
-   display: block;
-   transition: 2s;
-   position: fixed;
-   transition: 0.4s ease;
- border-top: 2px solid #f9ab00;
-   /* transform: translate3d(300px, 0, 0); */
-
-   /* display: flex;
-   flex-direction: column;
-   justify-content: flex-start;
-   align-items: flex-start;
-
-   top: 70px;
-   right: 0;
-   bottom: 0;
-  
-  
-   width: 300px;
-  */
-  }
-
-  header .nav-link.active{
- position: absolute;
-    right:2px;
+  header .nav-link {
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-color: #1a191f;
+    position: absolute;
+    width: 220px;
+    height: 100%;
+    padding: 30px 30px 0;
+    top: 48px;
+    right: -300px;
+    z-index: 1000;
+    display: block;
     transition: 2s;
-
-
-   }
-
-   header .nav-link li{
-       padding-top: 15px;
-       padding-bottom: 5px;
-      border-bottom:1px solid #e4d804;
-      /* border-right:1px solid  #fff ; */
-  
-      }
-
-      
-   header .nav-link a{
+    position: fixed;
+    transition: 0.4s ease;
+    border-top: 2px solid #f9ab00;
+  }
+  header .nav-link.active {
+    position: absolute;
+    right: 2px;
+    transition: 2s;
+  }
+  header .nav-link li {
+    padding-top: 15px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #e4d804;
+  }
+  header .nav-link a {
     text-transform: uppercase;
     color: #fff;
-
-    
-      }
+  }
   /*------------------ Header resposive end------------------ */
 
-  .homeBanner-content{
+  /*------------------ Home responsive start------------------------------------------------------------------------- */
+
+  .homeBanner-content {
     width: 100%;
- 
-    
-    }
+  }
 
-
+  /*------------------ Home category-One-Two resposive start------------------ */
+  .movieGrid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  /*------------------ Home category-One-Two resposive end------------------ */
 
   /*------------------ Our-services responsive start------------------ */
   .our-Services-left {
@@ -152,15 +118,12 @@
   .our-Services-right {
     width: 70%;
     display: flex;
-
     flex-direction: column;
-
     margin-top: 40px;
   }
   /*------------------ Our-services responsive  end------------------ */
 
   /*------------------ Live-movie responsive start------------------ */
-
   .live-Movie-left {
     width: 70%;
     display: flex;
@@ -173,36 +136,31 @@
   /*------------------ Live-movie responsive end------------------ */
 
   /*------------------ Membership responsive start------------------ */
-
   #Membership .container {
     text-align: center;
     padding: 20px 0;
     gap: 0.5rem;
   }
-
   .membership-left {
     width: 60%;
   }
-
   .membership-left p {
     text-align: center;
   }
-
   .membership-right {
     width: 60%;
   }
-
   /*------------------ Membership responsive end------------------ */
 
-   /*------------------ Footer  resposive start------------------ */
+  /*------------------ Home responsive end------------------------------------------------------------------------- */
+
+  /*------------------ Footer  resposive start------------------ */
   footer .container {
     gap: 1rem;
   }
-
   .footer-top .nav-text {
     margin-left: 0px;
   }
-
   .footer-top {
     flex-wrap: wrap;
   }
@@ -213,85 +171,69 @@
   .footer-top .navigations {
     padding-top: 40px;
   }
-
   .footer-top .navigations li {
     margin-right: 12px;
   }
-
   .footer-bottom .navigations a {
     font-size: 10px;
-    /* margin-left: 35px; */
   }
-
   .footer-bottom .navigations a {
     font-size: 12px;
     margin-left: 0px;
   }
- /*------------------ Footer resposive start------------------ */
+  /*------------------ Footer resposive end------------------ */
 
-    /*------------------ Pricing Page resposive start------------------ */
-    .pricing-bottom {
-    
-      gap: 10px;
-      padding:0;
-      flex-wrap: wrap;}
-    .pricing-box {
-      width: 40%;
-}
- /*------------------ Pricing Page resposive end------------------ */
-
- .pricingDetails-bottom {
-
-  grid-template-columns: 1fr 1fr;
+  /*------------------ Pricing Page resposive start------------------ */
+  .pricing-bottom {
+    gap: 10px;
+    padding: 0;
+    flex-wrap: wrap;
   }
+  .pricing-box {
+    width: 40%;
+  }
+  .pricingDetails-bottom {
+    grid-template-columns: 1fr 1fr;
+  }
+  /*------------------ Pricing Page resposive end------------------ */
 
-
-
-
- .contactForm_left {
-  width: 65%;
- }
+  /*------------------ Contact Page resposive start------------------ */
+  .contactForm_left {
+    width: 65%;
+  }
   .contactForm_right {
     width: 65%;
- }
+  }
+  /*------------------ Contact Page resposive end------------------ */
 
+  /*------------------ TvShow Page resposive start------------------ */
+  .movies-grid .container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  /*------------------ TvShow Page resposive end------------------ */
 
-
-
-
- .movies-grid .container {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 20px;
+  /*------------------ Movie Page resposive start------------------ */
+  #Movie-Search .parent_data .container {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  /*------------------ Movie Page resposive end------------------ */
 }
-
-.movieGrid {
-
-  grid-template-columns: repeat(3, 1fr);
-}
-
-/* MovieSearch start */
-#Movie-Search .parent_data .container {
-  grid-template-columns: repeat(4, 1fr);
-}
-/* MovieSearch end */
-
-
-
-}
-
-
-
-
-
 
 /* mini tablet */
 
 @media (max-width: 608px) {
   .container {
     max-width: 580px;
-
   }
+  /*------------------ Home responsive start------------------------------------------------------------------------- */
+
+  /*------------------ Home category-One-Two resposive start------------------ */
+  .movieGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  /*------------------ Home category-One-Two resposive end------------------ */
 
   /*------------------ Our-services responsive start------------------ */
   .our-Services-left {
@@ -305,13 +247,9 @@
     h2 {
       font-size: 32px;
     }
-
     .our-Services-left img {
       max-width: 100%;
- 
-  }
-
-
+    }
   }
   /*------------------ Our-services responsive  end------------------ */
 
@@ -323,10 +261,8 @@
     width: 100%;
   }
   /*------------------ Live-movie responsive end------------------ */
-
   .toggle-btn {
     display: block !important;
-    /* margin-right: 37px; */
   }
   /*------------------ Membership responsive start------------------ */
   .membership-right button {
@@ -334,14 +270,17 @@
     margin-top: 10px;
   }
   /*------------------ Membership responsive end------------------ */
+  /*------------------ Home responsive end------------------------------------------------------------------------- */
 
-   /*------------------ Footer resposive start------------------ */
+  /*------------------ Footer resposive start------------------ */
   .footer .container {
     width: 427px;
   }
-
   .footer-top .nav-text {
     margin-left: 0 !important;
+  }
+  .footer-top .navigations {
+    flex-direction: column;
   }
 
   .footer-top .navigations li {
@@ -351,54 +290,47 @@
   .footer-top .navigations input {
   }
 
-   /*------------------ Footer resposive start------------------ */
+  .footer-bottom {
+    justify-content: center;
+  }
+  /*------------------ Footer resposive start------------------ */
 
- /*------------------ Pricing Page resposive start------------------ */
+  /*------------------ Pricing Page resposive start------------------ */
   .pricing-box {
     width: 80%;
-}
- /*------------------ Pricing Page resposive end------------------ */
-
- .pricingDetails-bottom {
-
-  grid-template-columns: 1fr;
   }
+  .pricingDetails-bottom {
+    grid-template-columns: 1fr;
+  }
+  /*------------------ Pricing Page resposive end------------------ */
 
-
-
- .contactForm_left {
-  width: 75%;
- }
+  /*------------------ Contact Page resposive start------------------ */
+  .contactForm_left {
+    width: 75%;
+  }
   .contactForm_right {
     width: 75%;
- }
+  }
+  /*------------------ Contact Page resposive end------------------ */
 
+  /*------------------ TvShow Page resposive start------------------ */
+  .movies-grid .container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+  /*------------------ TvShow Page resposive end------------------ */
 
-
- .movies-grid .container {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 20px;
-}
-.movieGrid {
-
-  grid-template-columns: repeat(2, 1fr);
-}
-
-
-/* MovieSearch start */
-#Movie-Search .parent_data .container {
-  grid-template-columns: repeat(3, 1fr);
-}
-/* MovieSearch end */
-
-
+  /*------------------ Movie Page resposive start------------------ */
+  #Movie-Search .parent_data .container {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  /*------------------ Movie Page resposive end------------------ */
 }
 
 /* mobile */
 @media (max-width: 591px) {
   .container {
- 
     max-width: 580px;
   }
 
@@ -406,16 +338,22 @@
     width: 520px;
   } */
 
+  /*------------------ Home responsive start------------------------------------------------------------------------- */
+  /*------------------ Our-services responsive start------------------ */
   .service-card {
     flex-direction: column;
     align-items: flex-start;
     gap: 10px;
   }
+  /*------------------ Our-services responsive start------------------ */
+
+  /*------------------ Live-movie responsive start------------------ */
 
   .live-card {
     gap: 0;
     margin-bottom: 0;
   }
+  /*------------------ Live-movie responsive end------------------ */
 
   /*------------------ Membership responsive start------------------ */
   .membership-left p {
@@ -423,53 +361,40 @@
   }
   /*------------------ Membership responsive end----------------- */
 
+  /*------------------ Home responsive end------------------------------------------------------------------------- */
 
-   /*------------------ Footer resposive start------------------ */
+  /*------------------ Footer resposive start------------------ */
   .footer-top .navigations {
     font-display: flex;
     flex-direction: column;
     font-size: 1rem;
   }
 
-  .footer-top .navigations form {
-    padding: 30px 0;
-  }
-
   .footer-bottom {
     font-display: flex;
     flex-direction: column;
-
-    /* flex-wrap: wrap; */
   }
 
-  .footer-social {
-    padding: 30px 0;
-  }
+  /*------------------ Footer resposive end------------------ */
 
-   /*------------------ Footer resposive end------------------ */
-
-
-   .contact-info-content:nth-child(1) .info-text {
+  /*------------------ Contact Page resposive start------------------ */
+  .contact-info-content:nth-child(1) .info-text {
     border-bottom: none;
     font-size: 9px;
-  
   }
+  /*------------------ Contact Page resposive end------------------ */
 
-
+  /*------------------ TvShow Page resposive start------------------ */
   .movie-card {
- 
     width: 250px;
-}
+  }
+  /*------------------ TvShow Page resposive end------------------ */
 
-
-/* MovieSearch start */
-#Movie-Search .parent_data .container {
-  grid-template-columns: repeat(2, 1fr);
-}
-/* MovieSearch end */
-
-
-
+  /*------------------ Movie Page resposive start------------------ */
+  #Movie-Search .parent_data .container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  /*------------------ Movie Page resposive end------------------ */
 }
 /* mobile */
 
@@ -481,53 +406,35 @@
     width: 380px;
   } */
 
-
-
   /*------------------ Membership responsive start------------------ */
   .membership-left h4 {
     font-size: 26px;
   }
-
   .membership-right input {
     padding-right: 0;
   }
-
   .membership-left {
     width: 90%;
   }
-
   /*------------------ Membership responsive end------------------ */
 
-
- 
-
-
-    /*------------------ Pricing Page resposive start------------------ */
-   .pricing-top h2 {
-
+  /*------------------ Pricing Page resposive start------------------ */
+  .pricing-top h2 {
     font-size: 30px;
-}
-
-
-   .pricing-box {
+  }
+  .pricing-box {
     width: 100%;
-}
+  }
+  /*------------------ Pricing Page resposive end------------------ */
 
-    /*------------------ Pricing Page resposive end------------------ */
-    .contact-info-content p {
-      font-size: 9px;
-  
-  
+  /*------------------ Contact Page resposive start------------------ */
+  .contact-info-content p {
+    font-size: 9px;
   }
   .contact-info-content:nth-child(1) .info-text {
-  border-bottom: none;
-
-
-
-}
-
-
-
+    border-bottom: none;
+  }
+  /*------------------ Contact Page resposive end------------------ */
 }
 /* mobile */
 
@@ -538,102 +445,77 @@
       width: 320px;
     }
   }
+  /*------------------ Home responsive start------------------------------------------------------------------------- */
 
-
-
-  .homeBanner-content h2{
+  #HomeBanner {
+    margin-top: -12%;
+  }
+  .homeBanner-content h2 {
     font-size: 40px;
+  }
 
-
-    
-
-  
-}
-
-
+  /*------------------ Home category-One-Two resposive start------------------ */
+  .movieGrid {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .movieCard {
+    width: 350px;
+  }
+  /*------------------ Home category-One-Two resposive end------------------ */
 
   /*------------------ Membership responsive start------------------ */
   .membership-right input {
     padding-right: 0;
   }
-
   .membership-left {
     width: 90%;
   }
-
   /*------------------ Membership responsive end------------------ */
+  /*------------------ Home responsive end------------------------------------------------------------------------- */
 
-
-
-  
   /*------------------ Footer responsive start------------------ */
   .footer-bottom .navigations li a {
     font-size: 11px;
   }
-
-
   /*------------------ Footer responsive end------------------ */
 
- /*------------------ Pricing Page resposive start------------------ */
-   .pricing-top h2 {
-
+  /*------------------ Pricing Page resposive start------------------ */
+  .pricing-top h2 {
     font-size: 27px;
-}
-
-
-   .pricing-box {
+  }
+  .pricing-box {
     width: 100%;
-}
+  }
+  .details-box {
+    display: block;
+  }
   /*------------------ Pricing Page responsive end------------------ */
+
+  /*------------------ Contact Page resposive start------------------ */
   .contactForm_left {
     width: 100%;
-   }
-    .contactForm_right {
-      width: 100%;
-   }
-
-   /* Pricing-details start */
-   .details-box {
-    display: block;
-   }
-
-
-   .movies-grid .container {
-
-    grid-template-columns: repeat(1, 1fr);
- 
   }
+  .contactForm_right {
+    width: 100%;
+  }
+  /*------------------ Contact Page resposive end------------------ */
 
+  /*------------------ TvShow Page resposive start------------------ */
+  .movies-grid .container {
+    grid-template-columns: repeat(1, 1fr);
+  }
   .movie-card {
- 
     width: 350px;
-}
-
-   .movie-top {
-
+  }
+  .movie-top {
     flex-direction: column;
-}
+  }
+  /*------------------ TvShow Page resposive end------------------ */
 
-
-.movieGrid {
-  grid-template-columns: repeat(1, 1fr);
-}
-
-.movieCard {
-  width: 350px;}
-
-#HomeBanner {
-
-  margin-top: -12%;
-}
-
-
-/* MovieSearch start */
-#Movie-Search .parent_data .container {
-  grid-template-columns: repeat(1, 1fr);
-}
-/* MovieSearch end */
-
-
+  /*------------------ Movie Page resposive start------------------ */
+  #Movie-Search .parent_data .container {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  /*------------------ Movie Page resposive end------------------ */
 }
 /* mobile */

@@ -1,52 +1,50 @@
-#TvShowBanner{
-    background-image: url("../../../assets/Images/TvShow-bg.png");
-    background-position: center center;
-    background-size: cover;
-    height: 100%;
-    position: relative;
-    z-index: 999;
+#TvShowBanner {
+  background-image: url("../../../assets/Images/TvShowImages/TvShow-bg.png");
+  background-position: center center;
+  background-size: cover;
+  height: 100%;
+  position: relative;
+  z-index: 999;
 }
 
-
-#TvShowBanner .container{
-    display: flex;
-    align-items: center;
-    justify-content: center; 
+#TvShowBanner .container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.tvShowBanner-content{
-
-padding: 50px 0;
-position: relative;
-display: flex;
-align-items: center;
-justify-content: center;
-flex-direction: column;
-text-align: center;
+.tvShowBanner-content {
+  padding: 50px 0;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
 }
 
-.tvShowBanner-content h2{
-    color: #F4F4F4;
-    font-family:"Oswald"; 
-    font-size: 4rem;
-    font-weight:500;
-     text-transform: uppercase;
-    }
+.tvShowBanner-content h2 {
+  color: #f4f4f4;
+  font-family: "Oswald";
+  font-size: 4rem;
+  font-weight: 500;
+  text-transform: uppercase;
+}
 
-    .overlay{
-        position: absolute;
-    background-color:#0D0D0D;
-    top: 0px;
-    left: 0px;
-    width: 100%;
-    opacity: 0.5;
-    height: 100%;
-    z-index: -1;
-    }
-    .tvShowBanner-content p{
-    color:#c7afaf
-    }
+.overlay {
+  position: absolute;
+  background-color: #0d0d0d;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  opacity: 0.5;
+  height: 100%;
+  z-index: -1;
+}
+.tvShowBanner-content p {
+  color: #c7afaf;
+}
 
-    .tvShowBanner-content a{
-       color:#f6be00
-    }
+.tvShowBanner-content a {
+  color: #f6be00;
+}

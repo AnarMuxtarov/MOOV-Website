@@ -1,60 +1,52 @@
-#PricingBanner{
-    background-image: url("../../../assets/Images/pricingbanner.jpg");
-    background-position: center center;
-    background-size: cover;
-    position: relative;
-    z-index: 999;
-    display: flex;
-    background-repeat: no-repeat;
-    height: 200px;
-    
-
-
+#PricingBanner {
+  background-image: url("../../../assets/Images/PricingImages/pricingbanner.jpg");
+  background-position: center center;
+  background-size: cover;
+  position: relative;
+  z-index: 999;
+  display: flex;
+  background-repeat: no-repeat;
+  height: 200px;
 }
 
-
-#PricingBanner .container{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-   
-   
+#PricingBanner .container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.PricingBanner-content{
-
-padding: 50px 0;
-position: relative;
-display: flex;
-align-items: center;
-justify-content: center;
-flex-direction: column;
-text-align: center;
+.PricingBanner-content {
+  padding: 50px 0;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
 }
 
-.PricingBanner-content h2{
-    color: #F4F4F4;
-    font-family:"Oswald"; 
-    font-size: 4rem;
-    font-weight:500;
-     text-transform: uppercase;
+.PricingBanner-content h2 {
+  color: #f4f4f4;
+  font-family: "Oswald";
+  font-size: 4rem;
+  font-weight: 500;
+  text-transform: uppercase;
+}
 
-    }
+.overlay {
+  position: absolute;
+  background-color: #0d0d0d;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  opacity: 0.5;
+  height: 100%;
+  z-index: -1;
+}
+.PricingBanner-content p {
+  color: #c7afaf;
+}
 
-    .overlay{
-        position: absolute;
-    background-color:#0D0D0D;
-    top: 0px;
-    left: 0px;
-    width: 100%;
-    opacity: 0.5;
-    height: 100%;
-    z-index: -1;
-    }
-    .PricingBanner-content p{
-    color:#c7afaf
-    }
-
-    .PricingBanner-content a{
-       color:#f6be00
-    }
+.PricingBanner-content a {
+  color: #f6be00;
+}

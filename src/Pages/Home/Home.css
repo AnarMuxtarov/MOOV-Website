@@ -1,30 +1,23 @@
-.home{
-
-width: 100%;
-
-background-color: green;
-background-image: url(../../assets//Images/services_bg.jpg);
-
-
+.home {
+  width: 100%;
+  background-color: green;
+  background-image: url(../../assets//Images/services_bg.jpg);
 }
 
-.home img{
-/* width: 500px; */
-background: transparent;
+.home img {
+  background: transparent;
 }
 
-.home_left{
-width: 45%;
-background-color: aqua;
-
+.home_left {
+  width: 45%;
+  background-color: aqua;
 }
 
-.home_right{
-width: 45%;
-background-color: blueviolet;
+.home_right {
+  width: 45%;
+  background-color: blueviolet;
 }
-h1{
-
-    font-size: 100px;
-    background-color: brown;
+h1 {
+  font-size: 100px;
+  background-color: brown;
 }

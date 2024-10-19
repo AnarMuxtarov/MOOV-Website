@@ -1,11 +1,11 @@
 import React from 'react'
-import "./PricingDetails.css"
 import { BsBadgeHdFill } from "react-icons/bs";
 import { MdLocalMovies } from "react-icons/md";
 import { TbDeviceTv } from "react-icons/tb";
 import { HiTicket } from "react-icons/hi2";
 import { FaChromecast } from "react-icons/fa";
 import { IoLanguage } from "react-icons/io5";
+import "./PricingDetails.css"
 
 const PricingDetails = () => {
   return (

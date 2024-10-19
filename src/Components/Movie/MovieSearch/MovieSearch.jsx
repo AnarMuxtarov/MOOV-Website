@@ -1,6 +1,7 @@
 import React, { useState } from "react";
+import { Link } from "react-router-dom";
+import Data from "../../data.json";
 import "../MovieSearch/MovieSearch.css";
-import Data from "../..//TvShow/TvShowPagination/data.json";
 
 const MovieSearch = () => {
   const [search, setSerch] = useState("");
@@ -13,7 +14,8 @@ const MovieSearch = () => {
           className="input_search"
           type="text"
           placeholder=" Search for movies..."
-          onChange={(event) => setSerch(event.target.value)}/>
+          onChange={(event) => setSerch(event.target.value)}
+        />
 
         <div className="parent_data">
           <div className="container">
@@ -31,7 +33,9 @@ const MovieSearch = () => {
               return (
                 <div key={movie.id} className="movieCard">
                   <div className="card-contents">
-                    <img src={movie.image} alt={movie.title} />
+                    <Link to={`/movieSearch/${movie.id}`}>
+                      <img src={movie.image} alt={movie.title} />
+                    </Link>
                     <div className="movie-top">
                       <h3>{movie.title}</h3>
                       <p>{movie.year}</p>

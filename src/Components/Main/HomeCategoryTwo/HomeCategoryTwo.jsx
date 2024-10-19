@@ -1,14 +1,9 @@
 import React, { useState } from "react";
-import movies from "../../TvShow/TvShowPagination/data.json";
-import "./HomeCategoryTwo.css";
+import movies from "../../data.json";
+import { Link } from "react-router-dom";
 
-// const movies = [
-//   { id: 1, title: 'The Easy Reach', category: 'Movies', year: 2021 },
-//   { id: 2, title: 'The Cooking', category: 'Movies', year: 2021 },
-//   { id: 3, title: 'Women\'s Day', category: 'TV Shows', year: 2021 },
-//   { id: 4, title: 'The Perfect Match', category: 'Anime', year: 2021 },
 
-// ];
+
 
 const HomeCategoryTwo = () => {
   const [selectedCategory, setSelectedCategory] = useState("War Movie");
@@ -51,7 +46,7 @@ const HomeCategoryTwo = () => {
           {filteredMovies.map((movie) => (
             <div key={movie.id} className="movieCard">
                        <div className="card-contents">
-            <img src={movie.image} alt={movie.title} />
+                       <Link to={`/movie/${movie.id}`}><img src={movie.image} alt={movie.title} /></Link>
             <div className="movie-top">
             <h3>{movie.title}</h3>
             <p>{movie.year}</p>

@@ -1,44 +1,58 @@
-import React from 'react';
-import { Swiper, SwiperSlide } from 'swiper/react';
+import React from "react";
+import { Swiper, SwiperSlide } from "swiper/react";
+import { Navigation } from "swiper/modules";
 import "./MovieBanner.css";
-import 'swiper/css';
-import 'swiper/css/navigation';
-import { Navigation } from 'swiper/modules';
+import "swiper/css";
+import "swiper/css/navigation";
 
 const MovieBanner = () => {
   return (
     <div>
-      <Swiper navigation={true} modules={[Navigation]} loop={true} className="mySwiper">
+      <Swiper
+        navigation={true}
+        modules={[Navigation]}
+        loop={true}
+        className="mySwiper"
+      >
         <SwiperSlide>
-          <img src="https://streamvid.gavencreative.com/wp-content/uploads/2023/02/Slide-2-av.jpg" alt="" />
+          <img
+            src="https://streamvid.gavencreative.com/wp-content/uploads/2023/02/Slide-2-av.jpg"
+            alt=""
+          />
           <div className="slide-content">
             <h2>Movie</h2>
             <p>
-          <a href="/home">Home</a> / Movie
-        </p>
+              <a href="/home">Home</a> / Movie
+            </p>
           </div>
         </SwiperSlide>
         <SwiperSlide>
-          <img src="https://streamvid.gavencreative.com/wp-content/uploads/2023/02/slider2_d.jpg" alt="" />
+          <img
+            src="https://streamvid.gavencreative.com/wp-content/uploads/2023/02/slider2_d.jpg"
+            alt=""
+          />
           <div className="slide-content">
             <h2>Movie</h2>
             <p>
-          <a href="/home">Home</a> / Movie
-        </p>
+              <a href="/home">Home</a> / Movie
+            </p>
           </div>
         </SwiperSlide>
         <SwiperSlide>
-          <img src="https://streamvid.gavencreative.com/wp-content/uploads/2023/02/Slide-1.jpg" alt="" />
+          <img
+            src="https://streamvid.gavencreative.com/wp-content/uploads/2023/02/Slide-1.jpg"
+            alt=""
+          />
           <div className="slide-content">
             <h2>Movie</h2>
             <p>
-          <a href="/home">Home</a> / Movie
-        </p>
+              <a href="/home">Home</a> / Movie
+            </p>
           </div>
         </SwiperSlide>
       </Swiper>
     </div>
   );
-}
+};
 
 export default MovieBanner;

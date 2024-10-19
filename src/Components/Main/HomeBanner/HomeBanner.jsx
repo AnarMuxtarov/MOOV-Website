@@ -1,8 +1,8 @@
 import React from "react";
-import "../HomeBanner/HomeBanner.css";
 import { BsBadge4kFill } from "react-icons/bs";
 import { GoStopwatch } from "react-icons/go";
 import { FaCirclePlay } from "react-icons/fa6";
+import "../HomeBanner/HomeBanner.css";
 
 const HomeBanner = () => {
   return (

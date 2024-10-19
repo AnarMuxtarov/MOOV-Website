@@ -50,7 +50,7 @@ const PriceModel = () => {
             <h6>premium</h6>
             <div className="subscription-price">
               <h3 className="title-color2">$19</h3>
-              <span>1 Monthly</span>
+              <span>Monthly</span>
             </div>
           </div>
 
@@ -85,7 +85,7 @@ const PriceModel = () => {
             <h6>Cinematic</h6>
             <div className="subscription-price">
               <h3 className="title-color3">$30</h3>
-              <span> 3 Monthly</span>
+              <span>Quaterly</span>
             </div>
           </div>
 

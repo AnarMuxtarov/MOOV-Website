@@ -1,15 +1,14 @@
 import React from "react";
-import Img from "../../assets/Images/footer_logo.png";
-import "../Footer/Footer.css";
+import Img from "../../assets/Images/FooterImages/footer_logo.png";
 import { FaFacebookF } from "react-icons/fa";
 import { FaTwitter } from "react-icons/fa6";
 import { FaPinterestP } from "react-icons/fa";
 import { FaLinkedinIn } from "react-icons/fa";
 import { IoSearchOutline } from "react-icons/io5";
+import "../Footer/Footer.css";
 
 const Footer = () => {
   return (
-   
     <footer>
       <div className="container">
         <section className="footer-top">
@@ -19,66 +18,53 @@ const Footer = () => {
 
           <div className="navigations">
             <div className="nav-text">
-            <li>
-              <a href="/home"> Home </a>
-            </li>
-            <li>
-              <a href="/movie">Movie</a>
-            </li>
-            <li>
-              <a href="/tv-show">tv show</a>
-            </li>
-            <li>
-              <a href="/pricing">Pricing</a>
-            </li>
-            <li>
-              <a href="/contact">Pages</a>
-            </li>
+              <li>
+                <a href="/home"> Home </a>
+              </li>
+              <li>
+                <a href="/movie">Movie</a>
+              </li>
+              <li>
+                <a href="/tv-show">tv show</a>
+              </li>
+              <li>
+                <a href="/pricing">Pricing</a>
+              </li>
+              <li>
+                <a href="/contact">Pages</a>
+              </li>
             </div>
 
             <form action="#">
               <input type="text" placeholder="Find Favorite Movie" />
               <button>
-              <IoSearchOutline />
+                <IoSearchOutline />
               </button>
             </form>
           </div>
         </section>
         <section className="footer-bottom">
-          <div className="navigations">
-            <li>
-              <a href="/"> Faq </a>
-            </li>
-            <li>
-              <a href="/#">Help center</a>
-            </li>
-            <li>
-              <a href="/tv-show">Terms of use</a>
-            </li>
-            <li>
-              <a href="/pricing">Privace</a>
-            </li>
-          </div>
+          <div className="navigations"></div>
           <div className="footer-social">
             <ul>
               <li>
                 <a href="#">
-                <FaFacebookF />
+                  <FaFacebookF />
                 </a>
               </li>
               <li>
                 <a href="#">
-                <FaTwitter />
+                  <FaTwitter />
                 </a>
               </li>
               <li>
                 <a href="#">
-                <FaPinterestP />
+                  <FaPinterestP />
                 </a>
               </li>
               <li>
                 <a href="#">
-                <FaLinkedinIn />
+                  <FaLinkedinIn />
                 </a>
               </li>
             </ul>
