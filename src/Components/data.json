@@ -1,31 +1,116 @@
-[
+[ 
+  
+{
+  "id": 1,
+  "title": "Android Cop",
+  "year": 2014,
+  "category": "Action Movie",
+  "quality": "Hd",
+  "rating": 10,
+  "image": "https://www.hdfilmcehennemi.sh/uploads/poster/hd-android-cop-hd-film-izle_list.jpg",
+  "duration": 88,
+  "description": "In the year 2045, a Los Angeles Police Department detective and his new Android partner enter the Zone, a forbidden section of the city plagued with an unknown disease. There, they discover the source of the illness and uncover a troubling Government Conspiracy at the center.",
+  "watchLink": "https://www.hdfilmcehennemi.movie/hd-android-cop-hd-film-izle-7/",
+  "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/hd-android-cop-hd-film-izle_list.jpg",
+  "fragment":"https://www.youtube.com/embed/7AgZebTmtiY",
+  
+ 
+
+  "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
+},
+
+
+
+{
+  "id": 2,
+  "title": "Line Walker 2",
+  "year": 2019,
+  "category": "Action Movie",
+  "quality": "Hd",
+  "rating": 5,
+  "image": "https://www.hdfilmcehennemi.sh/uploads/poster/line-walker-2-izle_list.jpg",
+  "duration": 98,
+  "description": "Three police officers, to indicate some of the findings discovered in the course of their duties they work exposing corruption in the police department to remove. This three police officers to uncover the corruption that exists within their organizations, as well as other challenging at the same time which they give of their colleagues struggle to discover a trusted organization that is writhing in the grip of corruption and three police officers who make every effort to change this situation, they are determined to fight to secure justice no matter what the cost.",
+  "watchLink": "https://www.hdfilmcehennemi.movie/line-walker-2-izle-hdf-4/",
+  "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/line-walker-2-izle_list.jpg",
+  "fragment":"https://www.youtube.com/embed/jrVSTEsVdy4?si=Y7NmFSH-3wr_HyMn",
+
+  "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
+  
+},
   {
-    "id": 1,
-    "title": "Gunner",
+    "id": 3,
+    "title": "The Gunner",
     "year": 2024,
     "category": "Action Movie",
     "quality": "Hd",
     "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/gunner_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/gunner_list.jpg",
+    "duration": 90,
+    "description": "Lee Gunner tries to save his sons Luke and Travis from a dangerous drug gang.",
+    "watchLink": "https://www.youtube.com/embed/0PEOojf2ghQ",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/gunner_list.jpg",
+    "fragment":"https://www.youtube.com/embed/0PEOojf2ghQ",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
+    
   },
-  {
-    "id": 2,
-    "title": "Line Walker 2",
-    "year": 2019,
-    "category": "Action Movie",
-    "quality": "Hd",
-    "rating": 5,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/line-walker-2-izle_list.jpg"
-  },
-  {
-    "id": 3,
-    "title": "Android Cop",
-    "year": 2014,
-    "category": "Action Movie",
-    "quality": "Hd",
-    "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/hd-android-cop-hd-film-izle_list.jpg"
-  },
+
+ 
 
   {
     "id": 4,
@@ -34,7 +119,32 @@
     "category": "Action Movie",
     "quality": "Hd",
     "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/vedaa_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/vedaa_list.jpg",
+    "duration": 147,
+    "description": "A former soldier with a painful past supports a female boxer who is trying to achieve her dreams in a difficult environment.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/vedaa/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/vedaa_list.jpg",
+    "fragment":"https://www.youtube.com/embed/DQIg3Dntu9w",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 5,
@@ -43,7 +153,32 @@
     "category": "Action Movie",
     "quality": "Hd",
     "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-beekeeper_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-beekeeper_list.jpg",
+    "duration": 105,
+    "description": "The Bee Keeper tells an unusual story with universal themes, deeply rooted in the mythology of beekeeping. After a man is revealed to be a former agent of a powerful, secretive organization known as The Beekeepers, he embarks on a ruthless campaign of revenge, but the stakes are high on a national scale.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/the-beekeeper-1/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/the-beekeeper_list.jpg",
+    "fragment":"https://www.youtube.com/embed/SzINZZ6iqxY",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 6,
@@ -52,7 +187,32 @@
     "category": "Action Movie",
     "quality": "Hd",
     "rating": 5,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/gladyator-izle-hd_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/gladyator-izle-hd_list.jpg",
+    "duration": 155,
+    "description": "General Maximus, who brought the most glorious period to the Roman Empire, emerges victorious from another open war, and his only dream is to return home as soon as possible and reunite with his wife and family. However, the Roman Emperor of the time, Marcus Aurelius, gives Maximus an important task and wants him to take over power. Upon this, Commodus, the son of the emperor, understands that the power will be taken from him and orders the killing of the general and his family. Maximus barely escapes death and is exiled to the gladiator arena. Returning to Rome years later, the powerful gladiator Maximus' only g",
+    "watchLink": "https://www.hdfilmcehennemi.movie/gladyator-izle-hd-hdf-hdf-5/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/gladyator-izle-hd_list.jpg",
+    "fragment":"https://www.youtube.com/embed/owK1qxDselE",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
 
   {
@@ -62,7 +222,32 @@
     "category": "Action Movie",
     "quality": "Hd",
     "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/culpa-mia_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/culpa-mia_list.jpg",
+    "duration": 128,
+    "description": "Noah must leave his town, his boyfriend and his friends behind to move into his mother's newly wealthy husband's mansion, where they meet his new stepbrother, Nick.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/culpa-mia/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/culpa-mia_list.jpg",
+    "fragment":"https://www.youtube.com/embed/GD_QAcnjdJA",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 8,
@@ -71,7 +256,32 @@
     "category": "Action Movie",
     "quality": "Hd",
     "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/duchess_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/duchess_list.jpg",
+    "duration": 113 ,
+    "description": "It tells the story of a tough, working-class criminal who becomes an anti-hero who must reckon with a dark underworld in the dangerous world of diamond smuggling.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/duchess/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/duchess_list.jpg",
+    "fragment":"https://www.youtube.com/embed/iCxiiqlE7eg",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 9,
@@ -80,7 +290,32 @@
     "category": "Action Movie",
     "quality": "Hd",
     "rating": 9,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/bang-bang-betty-valerie-s-revenge_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/bang-bang-betty-valerie-s-revenge_list.jpg",
+    "duration": 93,
+    "description": "After defeating Darnell and his criminal organization, Valerie is assigned to investigate a new drug cartel in town.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/bang-bang-betty-valerie-s-revenge/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/bang-bang-betty-valerie-s-revenge_list.jpg",
+    "fragment":"https://www.youtube.com/embed/uLiSz6rIzsM",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
 
   {
@@ -90,7 +325,32 @@
     "category": "Action Movie",
     "quality": "Hd",
     "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-source_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-source_list.jpg",
+    "duration": 52,
+    "description": "In 2005, a drug bust in a suburb of France destroys the network of a family of drug dealers. Driss, a bright student, is forced to take over the family business and is dragged into a downward spiral. Against him is William, an ambitious and idealistic young cop who will do everything in his power to stop him.",
+    "watchLink": "https://www.youtube.com/embed/LTlO-Pipxpg",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/the-source_list.jpg",
+    "fragment":"https://www.youtube.com/embed/LTlO-Pipxpg",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 11,
@@ -99,7 +359,32 @@
     "category": "Action Movie",
     "quality": "Hd",
     "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/wanted-man_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/wanted-man_list.jpg",
+    "duration": 85,
+    "description": "The story of a police officer who must find and escort a witness after several DEA agents are killed in a cartel attack, but then must decide who to trust when they discover the attack was carried out by American forces.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/wanted-man/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/wanted-man_list.jpg",
+    "fragment":"https://www.youtube.com/embed/Uaz1D2oYzco",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 12,
@@ -108,7 +393,32 @@
     "category": "Action Movie",
     "quality": "Hd",
     "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/cash-out_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/cash-out_list.jpg",
+    "duration": 90,
+    "description": "Criminal mastermind Mason is about to commit the biggest murder of his life when his lover and key member of his team, Decker, takes down the team and reveals that he is an undercover Interpol agent. Heartbroken, Mason runs away and retires from his life of crime until his younger brother Shawn steps out of his league by pulling off a major bank heist all by himself.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/cash-out-2/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/cash-out_list.jpg",
+    "fragment":"https://www.youtube.com/embed/aM4REXXrbvE",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
 
   {
@@ -118,7 +428,32 @@
     "category": "Horror Movie",
     "quality": "Hd",
     "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/new-life_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/new-life_list.jpg",
+    "duration": 84,
+    "description": "A clever stalker on the trail of a runaway woman. As their bond grows stronger, the chase turns disastrous.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/new-life/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/new-life_list.jpg",
+    "fragment":"https://www.youtube.com/embed/6phcSPdvT9A",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
 
   {
@@ -129,10 +464,32 @@
     "quality": "Hd",
     "rating": 5,
     "image": "https://www.hdfilmcehennemi.sh/uploads/poster/hd-denizin-disleri_list.jpg",
-    "duration": 128,
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "watchLink": "https://link-to-watch.com",
-    "downloadLink": "https://link-to-download.com"
+    "duration": 94,
+    "description": "Kate, her sister and a friend go to Austria to visit Kate's ex-boyfriend Luke. Her ex-boyfriend organizes a boat tour for them and this boat tour will last exactly 1 week. Their plan is to be in Indonesia in 1 week, but they face unexpected problems on the way. They capsize in the sea. Their only chance is to hold on to a piece of the boat and go to the nearest land. 1 person does not want to go to the island, but they are unaware of the sharks following them.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/hd-denizin-disleri-5/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/hd-denizin-disleri_list.jpg",
+    "fragment":"https://www.youtube.com/embed/0UD2gbjB3vw",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
+
   },
   {
     "id": 15,
@@ -141,7 +498,33 @@
     "category": "Horror Movie",
     "quality": "Hd",
     "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/humane_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/humane_list.jpg",
+    "duration": 93,
+    "description": "In the wake of environmental collapse that has caused humanity's population to plummet, a family dinner descends into chaos when a father's plan to participate in the government's new euthanasia program goes horribly awry.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/humane/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/humane_list.jpg",
+    "fragment":"https://www.youtube.com/embed/V4b-OMLNWE0",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
+
   },
 
   {
@@ -151,7 +534,32 @@
     "category": "Horror Movie",
     "quality": "Hd",
     "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/bloodline-killer_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/bloodline-killer_list.jpg",
+    "duration": 90,
+    "description": "Bloodline Killer is a terrifying horror-thriller that tells the story of Moira Cole, a woman struggling to rebuild her life after her family's murder at the hands of her unstable and obsessive cousin.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/bloodline-killer/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/bloodline-killer_list.jpg",
+    "fragment":"https://www.youtube.com/embed/ok46QVymwkU",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 17,
@@ -160,7 +568,32 @@
     "category": "Horror Movie",
     "quality": "Hd",
     "rating": 9,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/refuge_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/refuge_list.jpg",
+    "duration": 91,
+    "description": "After coming under attack by a mysterious force during the conflict in Afghanistan, Sergeant Rick Pedroni returns home to his wife Kate, changed and dangerous.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/refuge/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/refuge_list.jpg",
+    "fragment":"https://www.youtube.com/embed/QUSMjwfZkZg",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 18,
@@ -169,7 +602,32 @@
     "category": "Horror Movie",
     "quality": "Hd",
     "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/model-house_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/model-house_list.jpg",
+    "duration": 85,
+    "description": "Models who spend the night in a secluded house are followed by uninvited guests.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/model-house/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/model-house_list.jpg",
+    "fragment":"https://www.youtube.com/embed/U1oZQE6WcEQ",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 19,
@@ -178,7 +636,34 @@
     "category": "Horror Movie",
     "quality": "Hd",
     "rating": 9,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/monster-hdfc-indonesia_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/monster-hdfc-indonesia_list.jpg",
+    "duration": 84,
+    "description": "Alana and Rabin are two friends who were kidnapped by a monster. Since they have no other choice, they must fight at all costs.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/monster-hdfc-indonesia/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/monster-hdfc-indonesia_list.jpg",
+    "fragment":"https://www.youtube.com/embed/evoS4gn2rBg",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
+
+    
   },
   {
     "id": 20,
@@ -187,7 +672,32 @@
     "category": "Horror Movie",
     "quality": "Hd",
     "rating": 9,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/byte_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/byte_list.jpg",
+    "duration": 96,
+    "description": "A group of college students try to help their friends when they discover a mysterious phone app that turns users into werewolves.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/byte/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/byte_list.jpg",
+    "fragment":"https://www.youtube.com/embed/O89Z2JJ1HLQ",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 21,
@@ -196,7 +706,32 @@
     "category": "Horror Movie",
     "quality": "Hd",
     "rating": 9,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/romi_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/romi_list.jpg",
+    "duration": 85,
+    "description": "Forced to hide in a state-of-the-art smart home, a young woman is hunted by her malevolent digital assistant, ROMI.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/romi/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/romi_list.jpg",
+    "fragment":"https://www.youtube.com/embed/w6PbKt4FO7k",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
 
   {
@@ -206,25 +741,100 @@
     "category": "Horror Movie",
     "quality": "Hd",
     "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/terrifier-3-hdfc_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/terrifier-3-hdfc_list.jpg",
+    "duration": 128,
+    "description": "Art the Clown terrorizes the residents of Miles County while they sleep on Christmas Eve.",
+    "watchLink": "https://www.youtube.com/embed/p8hGx8Rd8L8",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/terrifier-3-hdfc_list.jpg",
+    "fragment":"https://www.youtube.com/embed/p8hGx8Rd8L8",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 23,
-    "title": "The Guadrant",
+    "title": "The Quadrant",
     "year": 2024,
     "category": "Horror Movie",
     "quality": "Hd",
     "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/quadrant_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/quadrant_list.jpg",
+    "duration": 74,
+    "description": "The Quadrant helmet that Harry and Meg developed transports your mind to a world where you can face your fears. But things go wrong; Erin creates chaos as Jack the Ripper. A more dangerous killer is needed to stop him in the real and virtual worlds.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/quadrant/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/quadrant_list.jpg",
+    "fragment":"https://www.youtube.com/embed/7mnGa5cze2M",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 24,
     "title": "Turning of",
-    "year": 2023,
+    "year": 2024,
     "category": "Horror Movie",
     "quality": "Hd",
-    "rating": 9,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/don-t-turn-out-the-lights_list.jpg"
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/don-t-turn-out-the-lights_list.jpg",
+    "duration": 109,
+    "description": "A group of high school friends take a short break from college and set out in an RV to go to a music festival, but their weekend plans turn into a fight for survival.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/don-t-turn-out-the-lights/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/don-t-turn-out-the-lights_list.jpg",
+    "fragment":"https://www.youtube.com/embed/6RMxIBMppwY",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
 
   {
@@ -234,7 +844,32 @@
     "category": "Romantic Movie",
     "quality": "Hd",
     "rating": 9,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/basmati-blues_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/basmati-blues_list.jpg",
+    "duration": 106,
+    "description": "A brilliant scientist is sent to India to sell the genetically modified rice he has produced. This situation changes his life and the lives of the farmers, while also creating comical events within Indian culture.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/basmati-blues/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/basmati-blues_list.jpg",
+    "fragment":"https://www.youtube.com/embed/vI-QLWNlTas",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 26,
@@ -243,7 +878,32 @@
     "category": "Romantic Movie",
     "quality": "Hd",
     "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/haunted-heart_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/haunted-heart_list.jpg",
+    "duration": 128,
+    "description": "Young and energetic Alex starts working as a waitress in a charming seaside restaurant on a remote island in Greece. She wins Enrico's heart with her charm and falls in love with the mysterious American manager Max. As time goes by, Enrico finds clues about Max's dark past.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/haunted-heart/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/haunted-heart_list.jpg",
+    "fragment":"https://www.youtube.com/embed/_-axsA3md0I",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 27,
@@ -252,7 +912,32 @@
     "category": "Romantic Movie",
     "quality": "Hd",
     "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/romance-in-the-house_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/romance-in-the-house_list.jpg",
+    "duration": 60,
+    "description": "A man who disappeared from his family when his business went bankrupt returns 11 years later as a wealthy landlord. But his return leads to a very complicated reunion.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/dizi/romance-in-the-house/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/romance-in-the-house_list.jpg",
+    "fragment":"https://www.youtube.com/embed/THwFVASHsbw",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 28,
@@ -261,7 +946,32 @@
     "category": "Romantic Movie",
     "quality": "Hd",
     "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-beast_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-beast_list.jpg",
+    "duration": 147,
+    "description": "The film is set in a near future where artificial intelligence controls everyone's lives and human emotions are perceived as a threat.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/the-beast-1/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/the-beast_list.jpg",
+    "fragment":"https://www.youtube.com/embed/53ZebMn7QgA",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
 
   {
@@ -271,7 +981,32 @@
     "category": "Romantic Movie",
     "quality": "Hd",
     "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/a%EF%BE%85%E6%AE%98-mevsimi_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/a%EF%BE%85%E6%AE%98-mevsimi_list.jpg",
+    "duration": 126,
+    "description": "Love Season tells the story of how passionate love in youth takes shape over time. The story of Şirin and Ali Yaman begins when they are still very young in Bozcaada. However, their relationship becomes complicated as the years pass. Şirin and Ali, who are caught up in the seasons of love at different times, never have the same feelings. The film reveals the contradictions of love and happiness.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/ask-mevsimi/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/a%EF%BE%85%E6%AE%98-mevsimi_list.jpg",
+    "fragment":"https://www.youtube.com/embed/cUvEzmVcHCU",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 30,
@@ -280,7 +1015,32 @@
     "category": "Romantic Movie",
     "quality": "Hd",
     "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/beautiful-wedding_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/beautiful-wedding_list.jpg",
+    "duration": 95,
+    "description": "n the aftermath of Beautiful Disaster, Abby and Travis accidentally wake up married after a wild Vegas night! With the mob on their trail, the couple escape to Mexico for a wild and bizarre honeymoon. But will they face another disaster?",
+    "watchLink": "https://www.hdfilmcehennemi.movie/beautiful-wedding-1/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/beautiful-wedding_list.jpg",
+    "fragment":"https://www.youtube.com/embed/QCfEvvZ5su0",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
 
   {
@@ -290,7 +1050,32 @@
     "category": "Romantic Movie",
     "quality": "Hd",
     "rating": 9,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/beautiful-disaster_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/beautiful-disaster_list.jpg",
+    "duration": 96,
+    "description": "As their contentious friendship turns into a torrid romance, Travis' troubled past and Abby's future aspirations take our heroes on a challenging journey.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/beautiful-disaster/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/beautiful-disaster_list.jpg",
+    "fragment":"https://www.youtube.com/embed/vIf6E1Cc-4s",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 32,
@@ -299,7 +1084,32 @@
     "category": "Romantic Movie",
     "quality": "Hd",
     "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/float_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/float_list.jpg",
+    "duration": 100,
+    "description": "A young woman who nearly drowns falls unexpectedly in love with the small-town lifeguard who saves her. Based on the novel by Kate Marchant.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/float-5/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/float_list.jpg",
+    "fragment":"https://www.youtube.com/embed/wIOuFTeePSw",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 33,
@@ -308,17 +1118,68 @@
     "category": "Romantic Movie",
     "quality": "Hd",
     "rating": 5,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/winter-castle_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/winter-castle_list.jpg",
+    "duration": 84,
+    "description": "When her sister Meg decides to have her wedding at an ice hotel, Jenny is thrilled. She is equally excited to set up her sister Jenny with best man Craig, a single dad who she claims is perfect for Jenny. When Jenny arrives at the ice hotel, she finds it to be even more magical than she ever imagined. However, she is disappointed with Craig.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/winter-castle/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/winter-castle_list.jpg",
+    "fragment":"https://www.youtube.com/embed/uO4PiMliZvA",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
 
   {
     "id": 34,
     "title": "maxton Hall",
-    "year": 2023,
+    "year": 2024,
     "category": "Romantic Movie",
     "quality": "Hd",
-    "rating": 9,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/maxton-hall-the-world-between-us_list.jpg"
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/maxton-hall-the-world-between-us_list.jpg",
+    "duration": 128,
+    "description": "Based on Mona Kasten's bestselling book SAVE ME, the series finds Ruby unwittingly witnessing a huge secret at private school Maxton Hall. As a result, brash millionaire heir James Beaufort must deal with a brilliant scholarship student who is annoying him. He is determined to silence Ruby. Their passionate clashes ignite a surprising spark...",
+    "watchLink": "https://www.hdfilmcehennemi.movie/dizi/maxton-hall-the-world-between-us-24/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/maxton-hall-the-world-between-us_list.jpg",
+    "fragment":"https://www.youtube.com/embed/54dMhUses2A",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
+
   },
   {
     "id": 35,
@@ -327,16 +1188,66 @@
     "category": "Romantic Movie",
     "quality": "Hd",
     "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/art-of-love_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/art-of-love_list.jpg",
+    "duration": 99,
+    "description": "After an Interpol officer discovers that the art thief he's after is his ex-girlfriend, he hatches a plan to catch her red-handed.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/art-of-love-4/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/art-of-love_list.jpg",
+    "fragment":"https://www.youtube.com/embed/f77agh-CZ-c",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 36,
     "title": "The Roommate",
-    "year": 2019,
+    "year": 2024,
     "category": "Romantic Movie",
     "quality": "Hd",
-    "rating": 5,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-roommate-hdfc_list.jpg"
+    "rating": 10,
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-roommate-hdfc_list.jpg",
+    "duration": 99,
+    "description": "Struggling  writer  Vivi takes in her mysterious roommate Ro but soon suspects she's hiding a dark secret",
+    "watchLink": "hdfilmcehennemi.movie/the-roommate-hdfc/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/the-roommate-hdfc_list.jpg",
+    "fragment":"https://www.youtube.com/embed/Eopf23HlbUw",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
 
   {
@@ -346,7 +1257,32 @@
     "category": "Comedy Movie",
     "quality": "Hd",
     "rating": 8,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/ah-be-birader_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/ah-be-birader_list.jpg",
+    "duration": 107,
+    "description": "Ah Be Birader, which tells the story of two brothers who live very differently from each other, stars Anıl İlter as Ali and Ufuk Özkan as Orhan. Orhan is a very bold and fearless man. He is a man who never leaves his money in the market, is loved and respected by the underworld, and he is a loan shark with the men he gathers around him. In Orhan's life, women come and go. Ali, who chooses a plain white-collar life for himself, is a very shy man and one day he gets caught in the middle of a robbery while buying a ring for the woman he wants to marry. When he gets into all kinds of trouble, he takes refuge with his brother, who is a loan shark in the underworld.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/ah-be-birader/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/ah-be-birader_list.jpg",
+    "fragment":"https://www.youtube.com/embed/HcCnxpBGJmY",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 38,
@@ -355,7 +1291,32 @@
     "category": "Comedy Movie",
     "quality": "Hd",
     "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/summer-camp_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/summer-camp_list.jpg",
+    "duration": 96,
+    "description": "Nora, Ginny, and Mary tell the story of three best friends who have been together since childhood and spent every summer together at a summer camp. When the opportunity arises to reunite years later for a summer camp reunion, they all jump at it.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/summer-camp/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/summer-camp_list.jpg",
+    "fragment":"https://www.youtube.com/embed/P_na6hBhm18",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 39,
@@ -364,7 +1325,32 @@
     "category": "Comedy Movie",
     "quality": "Hd",
     "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/jackpot_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/jackpot_list.jpg",
+    "duration": 106,
+    "description": "In the near future, winning the 'Big Lottery' means risking your life for a multi-billion dollar jackpot. Katie Kim accidentally becomes the owner of the winning ticket and teams up with an amateur lottery guard named Noel Cassidy. Noel must keep Katie alive until sunset to get his share of the jackpot.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/jackpot-4/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/jackpot_list.jpg",
+    "fragment":"https://www.youtube.com/embed/IW7pIYtpp50",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 40,
@@ -373,7 +1359,32 @@
     "category": "Comedy Movie",
     "quality": "Hd",
     "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/bad-monkey_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/bad-monkey_list.jpg",
+    "duration": 128,
+    "description": "A detective-turned-restaurant inspector in South Florida is drawn into a world of intrigue and corruption when a severed arm is caught on a tourist's fishing rod. And there's a monkey in this story.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/dizi/bad-monkey-3/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/bad-monkey_list.jpg",
+    "fragment":"https://www.youtube.com/embed/RokJ4M2UjNc",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 41,
@@ -382,7 +1393,32 @@
     "category": "Comedy Movie",
     "quality": "Hd",
     "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/first-daughter_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/first-daughter_list.jpg",
+    "duration": 105,
+    "description": "When the daughter of the US president starts college in California, she, like all young girls, experiences some difficulties while looking for love and eventually falls head over heels in love. Once upon a time... There lived a very beautiful girl named Samantha. She had everything she could want and lived in a very beautiful White House. ''White House''.. Samantha Mackenzie has always lived with bodyguards and now wants to live a normal college life without the pressure of her family. The only problem is her father, the President of the United States! But nothing can stop Samantha and under the constant surveillance of the secret service and the media, Samantha meets a handsome college student... but he has some secrets too.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/first-daughter/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/first-daughter_list.jpg",
+    "fragment":"https://www.youtube.com/embed/PyQv-dNbTOY",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 42,
@@ -391,7 +1427,32 @@
     "category": "Comedy Movie",
     "quality": "Hd",
     "rating": 8,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/ana-kuzusu_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/ana-kuzusu_list.jpg",
+    "duration": 91,
+    "description": "Newly married Sinan, contrary to his masculine appearance, is a complete mama's boy. He is torn between making his mother Asuman, who is constantly dependent on him, and his dominant wife Buse's expectation that he be a man. One day, his mother-in-law and daughter-in-law have a big fight. They both swear never to see each other again. Sinan, who is torn between his wife and mother, comes up with an idea that will melt the ice. Summer is about to come, if they take a one-week vacation as a family, they will definitely get along and love each other. However, Sinan cannot explain the plan to either party because he is afraid of both his wife and his mother. Buse and Asuman think that they are going on vacation alone",
+    "watchLink": "https://www.hdfilmcehennemi.movie/ana-kuzusu/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/ana-kuzusu_list.jpg",
+    "fragment":"https://www.youtube.com/embed/c66Hya0xxXw",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 43,
@@ -400,7 +1461,32 @@
     "category": "Comedy Movie",
     "quality": "Hd",
     "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-duel_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-duel_list.jpg",
+    "duration": 99,
+    "description": "When a group of friends are rocked by betrayal, they decide to resolve their differences the old-fashioned way. They leave Los Angeles and embark on a strange adventure through an underground cave river that travels back in time.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/the-duel-2/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/the-duel_list.jpg",
+    "fragment":"https://www.youtube.com/embed/6LKjVzkYQOU",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
 
   {
@@ -410,7 +1496,32 @@
     "category": "Comedy Movie",
     "quality": "Hd",
     "rating": 5,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/uckagitci-mortdecai-izle_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/uckagitci-mortdecai-izle_list.jpg",
+    "duration": 106,
+    "description": "Charlie Mortdecai is an art dealer living in a luxurious mansion outside of London. He is madly in love with his beautiful wife Johanna, whom he met and married at university. Charlie, who is quite fond of his pleasures, is in a very bad financial situation. A lost Goya painting may be a way out for him to live his life without compromising. The British secret service MI5 offers Charlie to have his debts erased in return for finding this painting. What makes this painting different from its counterparts is that it belongs to a bank account full of Nazi assets. Mortdecai wants to reveal the painting in question, but it is not that easy. Because the painting has been stolen. Charlie starts to track down the painting with national security agent Alistair Marthland. Although Alistair's long-standing love for Johanna bothers Charlie, who is very fond of his wife, they are forced to work together. Charlie's loyal assistant Jock Strapp never leaves them alone on this mission.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/uckagitci-mortdecai-izle-5/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/uckagitci-mortdecai-izle_list.jpg",
+    "fragment":"https://www.youtube.com/embed/Fi7SXfdfGtw",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 45,
@@ -419,17 +1530,67 @@
     "category": "Comedy Movie",
     "quality": "Hd",
     "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/efsane_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/efsane_list.jpg",
+    "duration": 107,
+    "description": "Living in Çorum, Sadik and his family have been making yogurt as a family tradition for thousands of years, and are known for the flavor and healing properties of their yogurt. The secret of this legendary yogurt is kept by the eldest of the family, Dede, and he makes the yogurt. However, one summer day, snow falling on the roof of the grandfather's house will change everything. According to the legend, if snow falls on the roof of the person who has the secret in the summer, that secret must be passed on to someone else, and someone else in the family must be given a hand. If it is not given, great disasters will befall the family and they will be destroyed. All members of the Yoğurtçuoğlu family must come together to give a hand as soon as possible. This includes Sadık's twin brother Özgür, who lives in Istanbul and does not see his family. Twin brothers Sadık and Özgür will embark on a relentless struggle to get the secret of the legendary yogurt, which has been passed down from generation to generation for thousands of years, from their Dede.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/efsane/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/efsane_list.jpg",
+    "fragment":"https://www.youtube.com/embed/3aK0Toxuu28",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
 
   {
     "id": 46,
     "title": "Kingpin Katie",
-    "year": 2024,
+    "year": 2019,
     "category": "Comedy Movie",
     "quality": "Hd",
     "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/kingpin-katie_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/kingpin-katie_list.jpg",
+    "duration": 128,
+    "description": "Inspired by Breaking Bad, this darkly comedic tale humorously chronicles how Katie, a talentless comedy writer, becomes a bumbling drug dealer.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/dizi/kingpin-katie/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/kingpin-katie_list.jpg",
+    "fragment":"https://www.youtube.com/embed/kJ53SEwx7bw",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
 
   {
@@ -439,7 +1600,32 @@
     "category": "Comedy Movie",
     "quality": "Hd",
     "rating": 6,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/chick-fight-izle_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/chick-fight-izle_list.jpg",
+    "duration": 98,
+    "description": "Anna, a young woman, is not doing well in her life. Anna, who is penniless, is also facing the possibility of being kicked out of her home. In this difficult time, her best friend Charleen decides to take her to a secret fight club consisting entirely of women. This place, which she joins, slowly brings Anna back to life. Watch Chick Fight",
+    "watchLink": "https://www.hdfilmcehennemi.movie/chick-fight-izle-hdf-5/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/chick-fight-izle_list.jpg",
+    "fragment":"https://www.youtube.com/embed/qHFssXdRGQM",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 48,
@@ -448,7 +1634,32 @@
     "category": "Comedy Movie",
     "quality": "Hd",
     "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/lobola-man_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/lobola-man_list.jpg",
+    "duration": 108,
+    "description": "Ace Ngubeni, a master of bride price negotiations, takes on the toughest job of his life when he has a shy client. And there are more important things at stake than money.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/lobola-man/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/lobola-man_list.jpg",
+    "fragment":"https://www.youtube.com/embed/r_eH39jh8rg",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
 
   {
@@ -458,7 +1669,32 @@
     "category": "Fantasy Movie",
     "quality": "Hd",
     "rating": 9,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/renfield_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/renfield_list.jpg",
+    "duration": 93,
+    "description": "Renfield focuses on the life of Renfield, known as Dracula's sidekick in Bram Stoker's classic novel. In the original Dracula novel, the Reinfeld character, in addition to being Dracula's sidekick, was also someone who was kept in a mental hospital because he thought he was delusional.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/renfield/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/renfield_list.jpg",
+    "fragment":"https://www.youtube.com/embed/q8OjcmRaMy8",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 50,
@@ -467,7 +1703,32 @@
     "category": "Fantasy Movie",
     "quality": "Hd",
     "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/pauline_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/pauline_list.jpg",
+    "duration": 128,
+    "description": "When 19-year-old Pauline accidentally becomes pregnant after a one-night stand with Lukas, it turns out that Lukas is the son of the devil. The pregnancy gives Pauline supernatural powers and an epic battle between good and evil begins.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/dizi/pauline/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/pauline_list.jpg",
+    "fragment":"https://www.youtube.com/embed/CNqYROTDMwM",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 51,
@@ -476,7 +1737,32 @@
     "category": "Fantasy Movie",
     "quality": "Hd",
     "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/ghostbusters-frozen-empire_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/ghostbusters-frozen-empire_list.jpg",
+    "duration": 109,
+    "description": "The discovery of an ancient artifact unleashes an evil force, and Ghostbusters old and new must come together to protect their home and save the world from a second ice age.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/ghostbusters-frozen-empire-34/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/ghostbusters-frozen-empire_list.jpg",
+    "fragment":"https://www.youtube.com/embed/ia8u-WAuVqo",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 52,
@@ -485,7 +1771,32 @@
     "category": "Fantasy Movie",
     "quality": "Hd",
     "rating": 9,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-marvels_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-marvels_list.jpg",
+    "duration": 105,
+    "description": "In the sequel to the 2019 film Captain Marvel, directed by Anna Boden and Ryan Fleck, Brie Larson once again plays Carol Danvers, who turns into Captain Marvel with superpowers.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/the-marvels-21/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/the-marvels_list.jpg",
+    "fragment":"https://www.youtube.com/embed/-AxXCkKruvM",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 53,
@@ -494,7 +1805,32 @@
     "category": "Fantasy Movie",
     "quality": "Hd",
     "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/hanu-man_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/hanu-man_list.jpg",
+    "duration": 159,
+    "description": "A movie where the hero gets the powers of Hanuman and fights for Anjanadri",
+    "watchLink": "https://www.hdfilmcehennemi.movie/hanu-man/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/hanu-man_list.jpg",
+    "fragment":"https://www.youtube.com/embed/3zMuz0CD9eI",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 54,
@@ -503,7 +1839,32 @@
     "category": "Fantasy Movie",
     "quality": "Hd",
     "rating": 5,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/hocus-pocus_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/hocus-pocus_list.jpg",
+    "duration": 96,
+    "description": "A group of children accidentally summon three Salem witches from the 17th century to the present day. Three 300-year-old witches, accidentally summoned to Earth by a group of pranksters, try to reclaim their youth by enchanting the town they arrived in. But first they must pull themselves together and defeat three children and a talking cat.",
+    "watchLink": "https://link-to-watch.com",
+    "downloadLink": "https://www.hdfilmcehennemi.movie/hocus-pocus-3/",
+    "fragment":"https://www.youtube.com/embed/Oryofd_T-ng",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 55,
@@ -512,7 +1873,32 @@
     "category": "Fantasy Movie",
     "quality": "Hd",
     "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-secret-garden-izle_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-secret-garden-izle_list.jpg",
+    "duration": 99,
+    "description": "Set in England, The Secret Garden focuses on a 10-year-old girl named Mary Lennox, who is born in India to a wealthy English family who do not want her. When her parents die, Lennox is sent to live with her uncle Archibald Craven (Colin Firth) in Yorkshire, England. There, she meets her sickly cousin Colin and two children who have found a miraculous hidden garden in the Misselthwaite Manor. The two traumatized children, Colin and Mary, heal each other while discovering Mary's family secrets.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/the-secret-garden-izle-hdf-4/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/the-secret-garden-izle_list.jpg",
+    "fragment":"https://www.youtube.com/embed/VihoBP6St70",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 56,
@@ -521,7 +1907,32 @@
     "category": "Fantasy Movie",
     "quality": "Hd",
     "rating": 9,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/monster-high-2_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/monster-high-2_list.jpg",
+    "duration": 94,
+    "description": "As they enter their sophomore year at Monster High, Clawdeen Wolf, Draculaura and Frankie Stein face new students, new powers, and an even greater threat that could not only tear their friendship apart, but change the world forever.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/monster-high-2-2/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/monster-high-2_list.jpg",
+    "fragment":"https://www.youtube.com/embed/YvoJEl4yTpc",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 57,
@@ -530,7 +1941,32 @@
     "category": "Fantasy Movie",
     "quality": "Hd",
     "rating": 9,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-little-mermaid-hdfc_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-little-mermaid-hdfc_list.jpg",
+    "duration": 135,
+    "description": "A young mermaid makes a deal with a sea witch to trade her beautiful voice for human legs so she can explore the world above water and impress a prince.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/the-little-mermaid-hdfc-18/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/the-little-mermaid-hdfc_list.jpg",
+    "fragment":"https://www.youtube.com/embed/0-wPm99PF9U",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
 
   {
@@ -540,7 +1976,32 @@
     "category": "Fantasy Movie",
     "quality": "Hd",
     "rating": 8,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/hocus-pocus-2_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/hocus-pocus-2_list.jpg",
+    "duration": 105,
+    "description": "The film is a sequel to the 1993 film Hocus Pocus, directed by Kenny Ortega. Hocus Pocus tells the story of three witch siblings who were executed years ago for practicing witchcraft and are resurrected on Halloween.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/hocus-pocus-2-hdf1-30/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/hocus-pocus-2_list.jpg",
+    "fragment":"https://www.youtube.com/embed/ecJRvz9nk-U",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 59,
@@ -549,16 +2010,66 @@
     "category": "Fantasy Movie",
     "quality": "Hd",
     "rating": 8,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-magic-flute_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-magic-flute_list.jpg",
+    "duration": 125,
+    "description": "Follow 17-year-old Tim Walker as he travels from London to the Austrian Alps to attend the legendary Mozart boarding school. There, he discovers a centuries-old forgotten passage leading to the fantasy world of Mozart's Magic Flute.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/the-magic-flute/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/the-magic-flute_list.jpg",
+    "fragment":"https://www.youtube.com/embed/sJh8g8t_XSU",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 60,
-    "title": "The Goosebumps",
+    "title": "The Goosebumps-",
     "year": 2023,
     "category": "Fantasy Movie",
     "quality": "Hd",
     "rating": 9,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/goosebumps_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/goosebumps_list.jpg",
+    "duration": 128,
+    "description": "A group of five high school kids accidentally unleash supernatural forces and must now work together to save the town.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/dizi/goosebumps-2/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/goosebumps_list.jpg",
+    "fragment":"https://www.youtube.com/embed/AM73vr4ogVI",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
 
   {
@@ -568,7 +2079,32 @@
     "category": "War Movie",
     "quality": "Hd",
     "rating": 10,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/before-dawn_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/before-dawn_list.jpg",
+    "duration": 101,
+    "description": "Inspired by the real diaries of local ANZACs, this film tells the untold story of some of Australia's greatest military victories.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/before-dawn/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/before-dawn_list.jpg",
+    "fragment":"https://www.youtube.com/embed/vr0uyFtUm-o",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
 
   {
@@ -578,7 +2114,32 @@
     "category": "War Movie",
     "quality": "Hd",
     "rating": 9,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/devil-s-men_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/devil-s-men_list.jpg",
+    "duration": 91,
+    "description": "The horrors of war through the eyes of a real World War II soldier Sam Byrne was a farm boy from Wyoming who was drafted into the army and went to war to do his duty, even though he didn't want to kill.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/devil-s-men/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/devil-s-men_list.jpg",
+    "fragment":"https://www.youtube.com/embed/PR3r5TF63PQ",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 63,
@@ -587,7 +2148,32 @@
     "category": "War Movie",
     "quality": "Hd",
     "rating": 8,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/war-trap_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/war-trap_list.jpg",
+    "duration": 117,
+    "description": "During World War II, after an ambush by German troops in a castle, French soldier Eugène finds himself trapped underground. Now fighting for survival, his fate intertwines with that of another survivor, and both must struggle to save themselves from certain death, unaware of the terrible war that awaits them outside.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/war-trap/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/war-trap_list.jpg",
+    "fragment":"https://www.youtube.com/embed/apCjXav9dAY",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
 
   {
@@ -597,7 +2183,32 @@
     "category": "War Movie",
     "quality": "Hd",
     "rating": 7,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/berenshtein_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/berenshtein_list.jpg",
+    "duration": 147,
+    "description": "The last surviving member of the great partisans who discovered the development facility for Hitler's secret weapon, the V2 missile, revisits his past as a soldier in World War II. Delving into traumatic memories, he is forced to grapple with the dissociation and loss of identity that came after the war. Despite this adversity, he remains true to his values. Based on the true story of Leonid Berenshtein.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/berenshtein/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/berenshtein_list.jpg",
+    "fragment":"https://www.youtube.com/embed/X004fKs-DVc",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
 
   {
@@ -607,7 +2218,32 @@
     "category": "War Movie",
     "quality": "Hd",
     "rating": 5,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/t-i-m_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/t-i-m_list.jpg",
+    "duration": 89,
+    "description": "T.I.M tells the story of Serdar, who enters into a difficult struggle with a secret mission team after being dismissed from his duty in the special forces. Serdar Yıldırım serves as a captain in the special forces. The captain, who loses 16 of his soldiers when they are caught in a treacherous ambush, organizes an unauthorized operation by turning off the radios. This action causes him to be dismissed from duty. In the meantime, Serdar Yildirim is offered a task to work on a secret mission. Serdar, who accepts to lead a special team consisting of soldiers and police officers, enters into a difficult struggle for his martyred comrades, their families and their country together with the team.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/t-i-m/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/t-i-m_list.jpg",
+    "fragment":"https://www.youtube.com/embed/RCsDzKO2Cbo",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
   {
     "id": 66,
@@ -616,7 +2252,32 @@
     "category": "War Movie",
     "quality": "Hd",
     "rating": 9,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/battlebox_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/battlebox_list.jpg",
+    "duration": 77,
+    "description": "With a sudden attack by the Japanese, British Major General Maltby and his senior officers struggle between the decision to either fight to the death or humiliatingly surrender the British Colony of Hong Kong.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/battlebox/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/battlebox_list.jpg",
+    "fragment":"https://www.youtube.com/embed/0KEm3qxvmcA",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
 
   {
@@ -626,7 +2287,32 @@
     "category": "War Movie",
     "quality": "Hd",
     "rating": 7,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/railway-heroes_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/railway-heroes_list.jpg",
+    "duration": 124,
+    "description": "The story of the ordinary heroes known as the Lunan Railway Brigade who desperately defended their homeland against the enemy.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/railway-heroes-4/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/railway-heroes_list.jpg",
+    "fragment":"https://www.youtube.com/embed/hbHIxeY48MQ",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
 
   {
@@ -636,7 +2322,32 @@
     "category": "War Movie",
     "quality": "Hd",
     "rating": 5,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/71-into-the-fire_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/71-into-the-fire_list.jpg",
+    "duration": 120,
+    "description": "The film tells a true story from Korean history. War broke out between North and South Korea in June 1950. A group of young South Korean students with no military experience, including Gap Su (Kwone Sang-woo), who was convicted of murder, were sent to the front.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/71-into-the-fire-1/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/71-into-the-fire_list.jpg",
+    "fragment":"https://www.youtube.com/embed/fuAfubkv3y0",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
 
   {
@@ -646,7 +2357,32 @@
     "category": "War Movie",
     "quality": "Hd",
     "rating": 5,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/1-sniper-duvar-izle_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/1-sniper-duvar-izle_list.jpg",
+    "duration": 90,
+    "description": "Two American soldiers come face to face with a deadly sniper while fighting in Iraq. The only thing separating them is a sturdy wall. They soon realize that their radio is also being listened to by an enemy soldier. Will they be able to survive this trap?",
+    "watchLink": "https://www.hdfilmcehennemi.movie/1-sniper-duvar-izle-hdf-hdf-4/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/1-sniper-duvar-izle_list.jpg",
+    "fragment":"https://www.youtube.com/embed/OZbjGKtR8QQ",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
 
   {
@@ -656,7 +2392,32 @@
     "category": "War Movie",
     "quality": "Hd",
     "rating": 9,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-fox_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/the-fox_list.jpg",
+    "duration": 118,
+    "description": "At the dawn of World War II, a young motorcycle courier serving in the Austrian army encounters a wounded fox cub and takes it to occupied France. The soldier and the fox form an unlikely bond. Based on the true story of director Adrian Goiginger's great-grandfather, Franz Streitberger.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/the-fox/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/the-fox_list.jpg",
+    "fragment":"https://www.youtube.com/embed/7enX_GyCziE",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
 
   {
@@ -666,7 +2427,32 @@
     "category": "War Movie",
     "quality": "Hd",
     "rating": 9,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/clemency_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/clemency_list.jpg",
+    "duration": 101,
+    "description": "Summer 1942. A fierce battle begins near Stalingrad, the outcome of which will determine the fate of the entire world... Twenty-year-old sergeant Lubomir Zukh, who has not yet smelled gunpowder, leaves his unit on the front line. He was away from the unit for only three hours! But according to wartime law, he is a deserter. And the punishment for this is only one thing: execution. The punishment is severe, and what will he do in the face of it?",
+    "watchLink": "https://www.hdfilmcehennemi.movie/clemency/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/clemency_list.jpg",
+    "fragment":"https://www.youtube.com/watch?v=dQbAD8hdrsc&pp=ygUSUG9taWxvdmFuaWUgKDIwMjMp",
+
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   },
 
   {
@@ -676,6 +2462,31 @@
     "category": "War Movie",
     "quality": "Hd",
     "rating": 9,
-    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/bunker_list.jpg"
+    "image": "https://www.hdfilmcehennemi.sh/uploads/poster/bunker_list.jpg",
+    "duration": 109,
+    "description": "Trapped in a bunker during World War I, a group of soldiers come face to face with an unholy entity that slowly turns them against each other.",
+    "watchLink": "https://www.hdfilmcehennemi.movie/bunker/",
+    "downloadLink": "https://www.hdfilmcehennemi.sh/uploads/poster/bunker_list.jpg",
+    "fragment":"https://www.youtube.com/embed/qVqtwO4QyRo",
+    
+    "episode1_title":"Bring Me Their Guts Scene",  
+  "episode1_videoLink": "https://www.youtube.com/embed/QLTlJDjPfHI",
+  "episode1_duration": 2,
+
+  "episode2_title":"Grand Entrance, Dramatic End Scene",  
+  "episode2_videoLink": "https://www.youtube.com/embed/PM8-Hmfy6OU",
+  "episode2_duration": 3,
+
+  "episode3_title":" To Keep Friends From Exploding Scene ",  
+  "episode3_videoLink": "https://www.youtube.com/embed/lJjxm4xTVKk",
+  "episode3_duration": 2,
+
+  "episode4_title":"Morgan Benoit vs Michae Jai White in Android Cop",  
+  "episode4_videoLink": "https://www.youtube.com/embed/7oZuu-c1UsM",
+  "episode4_duration": 1,
+
+  "episode5_title":"The Hard Way end fight",  
+  "episode5_videoLink": "https://www.youtube.com/embed/JmHJ9z_L3YY",
+  "episode5_duration": 2
   }
 ]

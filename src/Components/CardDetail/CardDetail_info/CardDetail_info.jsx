@@ -1,4 +1,5 @@
-import React from "react";
+import { useState } from "react";
+import Img from "../../../assets/Images/MovieImages/download.svg";
 import { PiShareNetworkFill } from "react-icons/pi";
 import { IoIosPlay } from "react-icons/io";
 import { FaRegCalendarAlt } from "react-icons/fa";
@@ -6,8 +7,18 @@ import { FaRegClock } from "react-icons/fa";
 import "../CardDetail_info/CardDetail_info.css";
 
 const CardDetail_info = ({ movie }) => {
+  const [openModal, setOpenModal] = useState(false);
+
+  const handleWatch = () => {
+    setOpenModal(true);
+  };
+
+  const handleClose = () => {
+    setOpenModal(false);
+  };
+
   return (
-    <div id="CardDetail">
+    <div id="CardDetail" className="card-detail-container">
       <div className="container">
         <div className="cardDetail-left">
           <img src={movie.image} alt={movie.title} />
@@ -21,23 +32,15 @@ const CardDetail_info = ({ movie }) => {
             <span>HD</span>
             <span>{movie.category}</span>
             <span>
-              {" "}
               <FaRegCalendarAlt />
               {movie.year}
             </span>
             <span>
-              {" "}
               <FaRegClock />
               {movie.duration} min
             </span>
           </div>
-          <p>
-            {movie.description}
-            Lorem ipsum dolor sit amet, consecetur adipiscing elseddo eiusmod
-            tempor.There are many variations of passages of lorem Ipsum
-            available, but the majority have suffered alteration in some
-            injected humour.
-          </p>
+          <p>{movie.description}</p>
           <div className="cardDetail-center-videoFragment">
             <ul>
               <li className="share">
@@ -46,11 +49,11 @@ const CardDetail_info = ({ movie }) => {
                 </a>
               </li>
               <li>
-                <h6>Fragment </h6>
+                <h6>Fragment</h6>
                 <span>Streaming Channels</span>
               </li>
               <li>
-                <a href="https://www.youtube.com/watch?v=R2gbPxeNk2E">
+                <a href="#" onClick={handleWatch}>
                   <IoIosPlay /> Watch Now
                 </a>
               </li>
@@ -59,12 +62,30 @@ const CardDetail_info = ({ movie }) => {
         </div>
 
         <div className="cardDetail-right">
-          <a href={movie.downloadLink}>
+          <a href={movie.downloadLink} download>
             Download
-            <img src="fonts/download.svg" alt=""></img>
+            <img src={Img} alt={movie.title} />
           </a>
         </div>
       </div>
+
+      {openModal && (
+        <div className="modal-overlay">
+          <iframe
+            width="960"
+            height="540"
+            src={movie.fragment}
+            title={movie.title}
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            referrerPolicy="strict-origin-when-cross-origin"
+            allowFullScreen
+          ></iframe>
+          <button onClick={handleClose} className="modalCloser">
+            Close
+          </button>
+        </div>
+      )}
     </div>
   );
 };

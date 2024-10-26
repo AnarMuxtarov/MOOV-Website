@@ -154,6 +154,24 @@
 
   /*------------------ Home responsive end------------------------------------------------------------------------- */
 
+  /*------------------ CardDetail responsive start------------------ */
+  #CardDetail .container {
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    gap: 20px;
+    padding: 20px;
+  }
+
+  .cardDetail-right {
+    justify-content: center;
+  }
+  .cardDetail-right a {
+    padding: 23px 29px;
+    transform: none;
+  }
+
+  /*------------------ CardDetail responsive end------------------ */
+
   /*------------------ Footer  resposive start------------------ */
   footer .container {
     gap: 1rem;
@@ -219,8 +237,13 @@
     grid-template-columns: repeat(4, 1fr);
   }
   /*------------------ Movie Page resposive end------------------ */
-}
 
+  /*------------------ NotFound Page resposive start------------------ */
+  .notFound-Right {
+    right: 10%;
+}
+  /*------------------ NotFound Page resposive end------------------ */
+}
 /* mini tablet */
 
 @media (max-width: 608px) {
@@ -271,6 +294,26 @@
   }
   /*------------------ Membership responsive end------------------ */
   /*------------------ Home responsive end------------------------------------------------------------------------- */
+
+  /*------------------ CardDetail responsive start------------------ */
+  #CardDetail .container {
+    display: grid;
+    grid-template-columns: 2fr;
+    gap: 20px;
+  }
+
+  #CardDetail-episode .container {
+    display: grid;
+    grid-template-columns: 2fr;
+    gap: 20px;}
+
+    .cardDetail-episode-Right {
+      display: flex;
+      justify-content: center;
+      grid-column: 1 / span 2;
+  }
+
+  /*------------------ CardDetail responsive end------------------ */
 
   /*------------------ Footer resposive start------------------ */
   .footer .container {
@@ -326,6 +369,14 @@
     grid-template-columns: repeat(3, 1fr);
   }
   /*------------------ Movie Page resposive end------------------ */
+
+/*------------------ NotFound Page resposive start------------------ */
+.notFound-Right {
+  right: 5%;
+  top: 78%;
+}
+/*------------------ NotFound Page resposive end------------------ */
+
 }
 
 /* mobile */
@@ -498,6 +549,9 @@
   .contactForm_right {
     width: 100%;
   }
+  .form-overlays{
+    width: 80%;
+  }
   /*------------------ Contact Page resposive end------------------ */
 
   /*------------------ TvShow Page resposive start------------------ */
@@ -517,5 +571,18 @@
     grid-template-columns: repeat(1, 1fr);
   }
   /*------------------ Movie Page resposive end------------------ */
+
+ /*------------------ NotFound Page resposive start------------------ */
+  #NotFound .container {
+    display: grid;
+    grid-template-columns: 1fr;
+    height: 80vh;
+}
+
+.notFound-Right {
+  right: 5%;
+  top: 15%;
+}
+ /*------------------ NotFound Page resposive end------------------ */
 }
 /* mobile */

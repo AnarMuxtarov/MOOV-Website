@@ -52,3 +52,16 @@
   grid-template-columns: repeat(5, 1fr);
   gap: 5px;
 }
+
+.cont-image{
+  position: relative;
+}
+
+.pop-video{
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  cursor: pointer;
+ 
+}

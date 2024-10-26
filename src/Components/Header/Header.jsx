@@ -1,8 +1,10 @@
 import React, { useState } from "react";
 import Img from "../../assets/Images/HeaderImages/header_logo.png";
 import { TiThMenu } from "react-icons/ti";
-import { NavLink } from "react-router-dom";
+import { NavLink,Link } from "react-router-dom";
 import "../Header/Header.css";
+
+
 
 const Header = () => {
   const [open, setOpen] = useState(false);
@@ -23,6 +25,16 @@ const Header = () => {
           </li>
           <li className="navigation-link">
             <NavLink to="/movie">Movie</NavLink>
+            <ul className="submenu">
+              <li>
+                <a href="/Movie">Movie</a>
+              </li>
+              <li>
+              <a href="/movieSearch/1" >
+              Movie Details
+                </a>
+              </li>
+            </ul>
           </li>
           <li className="navigation-link">
             <NavLink to="/tvShow">tv show</NavLink>
@@ -35,7 +47,9 @@ const Header = () => {
           </li>
         </ul>
 
-        <a className="btn">SIGN IN</a>
+        <NavLink to="/signIN" className="btn">
+          SIGN IN
+        </NavLink>
 
         <div className="toggle-btn" onClick={toggleMenu}>
           <TiThMenu />

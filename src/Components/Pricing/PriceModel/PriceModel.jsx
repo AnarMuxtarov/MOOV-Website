@@ -1,9 +1,22 @@
-import React from 'react'
+import React, {useState} from 'react'
+
 import { FaRegCheckCircle } from "react-icons/fa";
 import { BiMinusCircle } from "react-icons/bi";
+import { IoMdClose } from "react-icons/io";
 import "./PriceModel.css"
 
+
+
+
 const PriceModel = () => {
+  
+ const [openPayment,setOpenPayment]=useState(false)
+ const handleWatcher = () => {
+  setOpenPayment(true)
+ }
+ const handleCloser = () => {
+setOpenPayment(false)
+ }
   return (
     <div id="Pricing">
     <div className="container">
@@ -40,7 +53,7 @@ const PriceModel = () => {
           </div>
 
           <div className="pricing-btn">
-            <a href="#">Buy Now</a>
+            <a href="/signIN">Register</a>
           </div>
         </div>
 
@@ -73,8 +86,56 @@ const PriceModel = () => {
           </div>
 
           <div className="pricing-btn">
-            <a href="#">Buy Now</a>
+            <a href="#" onClick={handleWatcher}>Choose Plan</a>
           </div>
+
+          {openPayment&&
+  <div className='modal-overlays'>
+  <form  className='modal-content'>
+    <button className='close-buttonModal' onClick={handleCloser}>
+    <IoMdClose />
+    </button>
+  <h4>Select plan</h4>
+       <div className="inputGroup">
+         <label htmlFor="name">Name</label>
+      <input type="text" id="name" placeholder="Full name"/>
+       </div>
+       <div className="inputGroup">
+       <label htmlFor="email">Email</label>
+       <input type="email"  id="email" placeholder="Email "/>
+       </div>
+     
+       <select className="selectGroup" name="value" id="value">
+         <option value="35">Premium - $19</option>
+         <option value="50">Cinematic - $30</option>
+       </select>
+       <span className="txt-modal">You can spend money from your account on the renewal of the connected packages, or to order cars on our website.</span>
+         <div className="payment-method">
+           <label>Payment method:</label>
+            <p>
+             <input type="radio" name="payment" id="payments" />
+             <label htmlFor="payments">Visa</label>
+            </p>
+            <p>
+            <input type="radio" name="payment" id="payments" />
+            <label htmlFor="payments">Mastercard</label>
+            </p>
+            <p>
+            <input type="radio" name="payment" id="payments" />
+            <label htmlFor="payments">Paypal</label>
+            </p>
+         </div>
+    <button className="btn-Proceed">
+       <span> <a href="/pricing">Proceed</a></span>
+     </button>
+  </form>
+ </div>
+
+    }
+
+
+
+
         </div>
 
 
@@ -108,12 +169,29 @@ const PriceModel = () => {
           </div>
 
           <div className="pricing-btn">
-            <a href="#">Buy Now</a>
+            <a href="#" onClick={handleWatcher}>Choose Plan</a>
           </div>
         </div>
 
       </div>
+
+
+
+     
+    
+
+
+
+
     </div>
+
+  
+          
+
+
+
+
+       
   </div>
   )
 }

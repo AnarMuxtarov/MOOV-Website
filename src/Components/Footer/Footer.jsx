@@ -19,23 +19,23 @@ const Footer = () => {
           <div className="navigations">
             <div className="nav-text">
               <li>
-                <a href="/home"> Home </a>
+                <a href="/"> Home </a>
               </li>
               <li>
                 <a href="/movie">Movie</a>
               </li>
               <li>
-                <a href="/tv-show">tv show</a>
+                <a href="/tvShow">tv show</a>
               </li>
               <li>
                 <a href="/pricing">Pricing</a>
               </li>
               <li>
-                <a href="/contact">Pages</a>
+                <a href="/contacts">Contacts</a>
               </li>
             </div>
 
-            <form action="#">
+            <form action="/movie">
               <input type="text" placeholder="Find Favorite Movie" />
               <button>
                 <IoSearchOutline />

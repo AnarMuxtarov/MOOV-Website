@@ -1,0 +1,103 @@
+#NotFound {
+  background-image: url(../assets/Images/NotFoundImages/NotFound-bg.webp);
+  width: 100%;
+  position: relative;
+  height: 80vh;
+}
+
+#NotFound .container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  height: 80vh;
+}
+
+.notFound-Left {
+  float: left;
+  display: flex;
+  justify-content: center;
+}
+.notFound-Left img {
+  width: 120px;
+  display: block;
+  margin-left: 3px;
+  cursor: pointer;
+  animation-duration: 10s;
+  animation-delay: 0.5s;
+  animation-name: Astronot;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+.notFound-Center {
+  color: white;
+}
+
+.notFound-Center h2 {
+  font-size: 11rem;
+  font-weight: 900;
+  color: #fff;
+  text-align: center;
+  text-shadow: 1px 1px 3px #6c9db7;
+  letter-spacing: 5px;
+}
+.notFound-Center p {
+  font-size: 1.3em;
+  line-height: 150%;
+  font-weight: 400;
+  color: #fff;
+  text-align: center;
+  text-shadow: 3px 2px 3px rgba(255, 255, 255, 0.2);
+}
+
+.notFound-Center a {
+  display: block;
+  width: 300px;
+  max-width: 100%;
+  margin: 0px auto 25px auto;
+  overflow: hidden;
+  position: relative;
+  transform: translatez(0);
+  text-decoration: none;
+  box-sizing: border-box;
+  font-size: 22px;
+  letter-spacing: 0.8px;
+  font-weight: normal;
+  font-family: "Source Sans Pro", sans-serif;
+  box-shadow: 0 10px 10px 0 rgba(47, 1, 60, 0.32);
+  -webkit-box-shadow: 0 10px 10px 0 rgba(47, 1, 60, 0.32);
+  text-align: center;
+  border-radius: 10px;
+  padding: 14px 7px 14px 7px;
+  color: #ffffff;
+  background: rgb(106, 131, 187);
+  margin-top: 25px;
+}
+.notFound-Right {
+  display: flex;
+  justify-content: end;
+  align-items: start;
+  z-index: 110 !important;
+  position: absolute;
+  top: 60%;
+  right: 20%;
+  transform: rotate(90deg);
+}
+
+.notFound-Right img {
+  width: 120px;
+  animation-duration: 10s;
+  animation-delay: 0.5s;
+  animation-name: Astronot;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+@keyframes Astronot {
+  0% {
+    opacity: 0;
+    transform: rotate(90deg);
+  }
+  100% {
+    opacity: 1;
+    transform: rotate(360deg);
+  }
+}

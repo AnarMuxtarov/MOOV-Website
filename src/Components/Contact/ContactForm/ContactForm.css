@@ -9,8 +9,10 @@
 
 .contactForm_left {
   width: 40%;
-  background-color: #0b0b0d;
+  background-color: transparent;
+  box-shadow: 0px 1px 7px 0px rgba(0, 0, 0, 0.46);
   padding: 50px;
+  position: relative;
 }
 
 .contact-form .form-title {
@@ -51,6 +53,16 @@
   line-height: 1.5;
   border: 1px solid #111018;
   border-radius: 10px;
+  width: 100%;
+  border: 1px solid #1f1e24;
+  background: #1f1e24;
+  border-radius: 4px;
+  color: #bcbcbc;
+  box-shadow: 0px 1px 7px 0px rgba(0, 0, 0, 0.46);
+  font-weight: 500;
+  padding: 14px 25px;
+  margin-bottom: 30px;
+  transition: 0.3s linear;
 }
 
 .input-group input:focus {
@@ -66,8 +78,8 @@
   font-family: "Barlow Semi Condensed", sans-serif;
   border-radius: 10px;
   transition: all 0.3s ease-in-out;
-  color: #ffffff;
-  background-color: #070709;
+  color: #bcbcbc;
+  background-color: #1f1e24;
   display: block;
   width: 100%;
   line-height: 1.5;
@@ -80,8 +92,8 @@
 }
 
 .input-group a {
-  background-color: #f6be00;
-  color: #0b0b0d;
+  background-color: #12151e;
+  color: #e3dfdf;
   z-index: 1;
   position: relative;
   font-size: 16px;
@@ -89,15 +101,15 @@
   padding: 13px 40px;
   overflow: hidden;
   border-radius: 50px;
-  border: none;
+  border: 2px solid #f6be00;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
   font-family: "Barlow Semi Condensed", sans-serif;
 }
 
-.input-group a:focus {
+.input-group a:hover {
   color: #0b0b0d;
-  background-color: #ffffff;
+  background-color: #f6be00;
   transition: 2s;
 }
 
@@ -165,4 +177,53 @@
   line-height: 26px;
   color: #bcbcbc;
   margin: 20px;
+}
+
+.form-overlays {
+  background-color: white;
+  text-align: center;
+  max-width: 349px;
+  padding: 30px;
+  border-radius: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1000;
+}
+
+.sendContent {
+  max-width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+.form-overlays .succes-icon {
+  font-size: 60px;
+}
+
+.form-overlays p {
+  padding: 15px 0;
+}
+
+.form-overlays a {
+  display: inline-block;
+  background: #e43104;
+
+  border-radius: 50px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  line-height: 1.5;
+  margin-bottom: 0;
+  text-align: center;
+  text-transform: uppercase;
+
+  transition: all 0.3s ease 0s;
+  vertical-align: middle;
+
+  max-width: 200px;
+  color: #fff;
+  font-size: 14px;
+  padding: 5px 34px;
 }

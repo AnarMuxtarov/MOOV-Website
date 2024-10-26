@@ -1,0 +1,151 @@
+#CardDetail-episode {
+  background-image: url(../../../assets/Images/MovieImages/movie_episode_bg.jpg);
+  width: 100%;
+  background-size: cover;
+  background-position: top center;
+  padding: 120px 0 115px;
+  position: relative;
+  z-index: 0;
+}
+
+#CardDetail-episode .container {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 20px;
+}
+
+.cardDetail-content h2 {
+  font-size: 30px;
+  font-family: "Poppins", sans-serif;
+  color: #fff;
+  margin-top: 0px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.cardDetail-content span {
+  display: block;
+  line-height: 1;
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight: 500;
+  position: relative;
+  margin-bottom: 12px;
+  letter-spacing: 1px;
+  color: #e4d804;
+}
+
+.cardDetail-episode-Left ul {
+  margin-top: 25px;
+  background: #040406;
+  padding: 30px 30px 40px;
+}
+
+.cardDetail-episode-Left ul li {
+  padding-bottom: 15px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #242426;
+}
+
+.cardDetail-episode-Left ul li a {
+  font-size: 16px;
+  font-weight: 600;
+  color: #c8c8c8;
+}
+.cardDetail-episode-Left ul li span {
+  float: right;
+  color: #e3dfdf;
+}
+
+.cardDetail-episode-Left ul li span svg {
+  color: #e4d804;
+  margin-right: 7px;
+}
+.cardDetail-episode-Right {
+  display: flex;
+  justify-content: flex-end;
+}
+.cardDetail-episode-Right img {
+  max-width: 100%;
+ 
+}
+.cardDetail-episode-Bottom {
+  grid-column: 1 / span 2;
+  background-color: #222;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+  background-color: #0f0f0f;
+}
+
+.cardDetail-episode-Bottom h3 {
+  font-size: 24px;
+  background: rgba(0, 0, 0, 0.349);
+  border: 1px solid #29272f;
+  padding: 25px 40px;
+  position: relative;
+  margin-bottom: 30px;
+  font-family: "Poppins", sans-serif;
+  color: #fff;
+  margin-top: 0px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.cardDetail-episode-Bottom span {
+  font-size: 24px;
+  color: #e4d804;
+}
+
+.cardDetail-episode-Bottom p {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 26px;
+  margin-bottom: 0;
+  padding: 0 35px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 26px;
+  color: #bcbcbc;
+}
+
+
+
+
+
+.iframe-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.75);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1001;
+}
+
+.iframe-container {
+  position: relative;
+  width: 960px;
+  height: 540px;
+  background: #000;
+}
+
+.close-iframe-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: red;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  z-index: 1001;
+}
+
+.iframe-container iframe {
+  width: 100%;
+  height: 100%;
+}

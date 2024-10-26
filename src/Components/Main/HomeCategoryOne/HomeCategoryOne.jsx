@@ -55,7 +55,11 @@ const HomeCategoryOne = () => {
                   <p>{movie.quality}</p>
                   <p>rating: {movie.rating}</p>
                 </div>
+              
+      
+        
               </div>
+              
             </div>
           ))}
         </div>
