@@ -29,6 +29,7 @@ const PaginatedMovies = () => {
         {currentMovies.map(movie => (
           <div key={movie.id} className="movie-card">
                 <div className="card-contents">
+                { /*Bu hissədə json faylımızdan gələn filmlərin id si ötürür movie.id*/}
                 <Link to={`/TvShowPagination/${movie.id}`}><img src={movie.image} alt={movie.title} /></Link>
             <div className="movie-top">
             <h3>{movie.title}</h3>
@@ -46,9 +47,13 @@ const PaginatedMovies = () => {
 
       {/* Səhifələmə düymələri */}
       <Pagination 
+      //  səhifədə göstəriləcək filmlərin sayı
         moviesPerPage={moviesPerPage} 
+        // ümumi film sayını təyin edir
         totalMovies={data.length} 
+        // səhifəni dəyişdirmək üçün bir funksiya
         paginate={paginate} 
+        // Cari səhifənin nömrəsini saxlayır
         currentPage={currentPage}
       />
     </div>

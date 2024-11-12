@@ -7,12 +7,15 @@ const CardDetail_episode = ({ movie }) => {
   const [openModal, setOpenModal] = useState(false);
   const [currentVideoLink, setCurrentVideoLink] = useState("");
 
-  const handleWatchNow = (e, videoLink) => {
+   // modal pəncərənin açılma funksiyası
+  const handleWatch = (e, videoLink) => {
+    //  e.preventDefault(); Səhifənin yenilənməsinin qarşısını alır
     e.preventDefault(); 
+    // setCurrentVideoLink(videoLink);  videonun linkini state yazır
     setCurrentVideoLink(videoLink); 
     setOpenModal(true); 
   };
-
+ // modal pəncərənin bağlanma funksiyası
   const handleCloseIframe = () => {
     setOpenModal(false);
     setCurrentVideoLink(""); 
@@ -28,7 +31,7 @@ const CardDetail_episode = ({ movie }) => {
           </div>
           <ul className="cardDetail-video">
             <li>
-              <a href={movie.episode1_videoLink} onClick={(e) => handleWatchNow(e, movie.episode1_videoLink)}>
+              <a href={movie.episode1_videoLink} onClick={(e) => handleWatch(e, movie.episode1_videoLink)}>
                 <IoIosPlay /> Episode 1 - {movie.episode1_title}
               </a>
               <span className="duration">
@@ -36,7 +39,7 @@ const CardDetail_episode = ({ movie }) => {
               </span>
             </li>
             <li>
-              <a href={movie.episode2_videoLink} onClick={(e) => handleWatchNow(e, movie.episode2_videoLink)}>
+              <a href={movie.episode2_videoLink} onClick={(e) => handleWatch(e, movie.episode2_videoLink)}>
                 <IoIosPlay /> Episode 2 - {movie.episode2_title}
               </a>
               <span className="duration">
@@ -44,7 +47,7 @@ const CardDetail_episode = ({ movie }) => {
               </span>
             </li>
             <li>
-              <a href={movie.episode3_videoLink} onClick={(e) => handleWatchNow(e, movie.episode3_videoLink)}>
+              <a href={movie.episode3_videoLink} onClick={(e) => handleWatch(e, movie.episode3_videoLink)}>
                 <IoIosPlay /> Episode 3 - {movie.episode3_title}
               </a>
               <span className="duration">
@@ -52,7 +55,7 @@ const CardDetail_episode = ({ movie }) => {
               </span>
             </li>
             <li>
-              <a href={movie.episode4_videoLink} onClick={(e) => handleWatchNow(e, movie.episode4_videoLink)}>
+              <a href={movie.episode4_videoLink} onClick={(e) => handleWatch(e, movie.episode4_videoLink)}>
                 <IoIosPlay /> Episode 4 - {movie.episode4_title}
               </a>
               <span className="duration">
@@ -60,7 +63,7 @@ const CardDetail_episode = ({ movie }) => {
               </span>
             </li>
             <li>
-              <a href={movie.episode5_videoLink} onClick={(e) => handleWatchNow(e, movie.episode5_videoLink)}>
+              <a href={movie.episode5_videoLink} onClick={(e) => handleWatch(e, movie.episode5_videoLink)}>
                 <IoIosPlay /> Episode 5 - {movie.episode5_title}
               </a>
               <span className="duration">
@@ -80,7 +83,7 @@ const CardDetail_episode = ({ movie }) => {
         </div>
       </div>
 
-      
+       {/* Modal pəncərə */}
       {openModal && (
         <div className="iframe-overlay">
           <div className="iframe-container">

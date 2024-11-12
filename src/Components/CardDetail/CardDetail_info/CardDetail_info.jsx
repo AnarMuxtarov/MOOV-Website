@@ -7,12 +7,15 @@ import { FaRegClock } from "react-icons/fa";
 import "../CardDetail_info/CardDetail_info.css";
 
 const CardDetail_info = ({ movie }) => {
-  const [openModal, setOpenModal] = useState(false);
+    //  Modal pəncərə başlanğıcda görsənməsin -->useState(false)
+  const [openModal, setOpenModal] = useState(false);  
 
+  // modal pəncərənin açılma funksiyası
   const handleWatch = () => {
     setOpenModal(true);
   };
 
+  // modal pəncərənin bağlanma funksiyası
   const handleClose = () => {
     setOpenModal(false);
   };
@@ -53,7 +56,7 @@ const CardDetail_info = ({ movie }) => {
                 <span>Streaming Channels</span>
               </li>
               <li>
-                <a href="#" onClick={handleWatch}>
+                <a onClick={handleWatch}>
                   <IoIosPlay /> Watch Now
                 </a>
               </li>
@@ -68,7 +71,7 @@ const CardDetail_info = ({ movie }) => {
           </a>
         </div>
       </div>
-
+      {/* Modal pəncərə  */}
       {openModal && (
         <div className="modal-overlay">
           <iframe

@@ -20,6 +20,7 @@ const MovieSearch = () => {
 
         <div className="parent_data">
           <div className="container">
+          {/*Search dəyəri boşdursa movie qaytar digər halda movie.title  search dəyərinə uyğun gəlirsə, həmin filmi qaytar. */}
             {Data.filter((movie) => {
               if (search == "") {
                 return movie;
@@ -30,16 +31,17 @@ const MovieSearch = () => {
               ) {
                 return movie;
               }
+              // Süzgəçdən keçən datanı ekrana yazdır
             }).map((movie) => {
               return (
                 <div key={movie.id} className="movieCard">
                 <div className="card-contents">
-                  {/* Movie image links to the detail page */}
+                { /*Bu hissədə json faylımızdan gələn filmlərin id si ötürür movie.id*/}
                   <Link to={`/movieSearch/${movie.id}`}>
                     <img src={movie.image} alt={movie.title} className="cont-image" />
                   </Link>
               
-                  {/* Play button links to the video */}
+
                   <a href={movie.watchLink} className="pop-video" target="_blank" >
                     <img src={Img} alt="Play" />
                   </a>

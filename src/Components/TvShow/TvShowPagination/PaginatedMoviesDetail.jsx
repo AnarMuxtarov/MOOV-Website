@@ -5,7 +5,9 @@ import CardDetail_episode from "../../CardDetail/CardDetail_episode/CardDetail_e
 import movies from "../../data.json";
 
 const PaginatedMoviesDetail = () => {
+     // ---useParams url-dən id parametrini alır (RouterComp-də /movie/:id bu hissədən)   --- 
   const { id } = useParams();
+    // ---Json faylımızdan  id ilə uyğun gələn filmi tapır (filmin idsini url idsi bərabər edir)
   const movie = movies.find((movie) => movie.id === parseInt(id));
   return(
 <>

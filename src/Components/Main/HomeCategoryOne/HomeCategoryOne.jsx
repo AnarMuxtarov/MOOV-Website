@@ -6,12 +6,14 @@ import "./HomeCategoryOne.css";
 const HomeCategoryOne = () => {
   const [selectedCategory, setSelectedCategory] = useState("Horror Movie");
 
-  // Function to handle filter changes
+  // Bu funksiyaya kateqoriya parametri ötürürük state dəyişəndə kateqoriyanı göstər
   const handleFilterChange = (category) => {
     setSelectedCategory(category);
   };
 
-  // Filtering movies based on selected category
+  //  State dəyişəndə All-a bərabərdirsə  json faylımızdakı dataların hamısı göstər 
+  // əks halda state kateqoriya-sı dəyişəndə jsonun categoriyasında uygun seç
+       
   const filteredMovies =
     selectedCategory === "All"
       ? movies
@@ -23,7 +25,7 @@ const HomeCategoryOne = () => {
         <span className="category-subtitle">ONLINE STREAMING</span>
         <h2>Top Rated Movies</h2>
 
-        {/* Filter buttons */}
+        {/* { Kategoriyalara keçid düymələri} */}
         <div className="filter-buttons">
           <button className="active" onClick={() => handleFilterChange("All")}>
             All
@@ -39,11 +41,11 @@ const HomeCategoryOne = () => {
           </button>
         </div>
 
-        {/* Movie cards */}
         <div className="movieGrid">
           {filteredMovies.map((movie) => (
             <div key={movie.id} className="movieCard">
               <div className="card-contents">
+                { /*Bu hissədə json faylımızdan gələn filmlərin id si ötürür movie.id*/}
                 <Link to={`/movie/${movie.id}`}>
                   <img src={movie.image} alt={movie.title} />
                 </Link>
@@ -55,11 +57,7 @@ const HomeCategoryOne = () => {
                   <p>{movie.quality}</p>
                   <p>rating: {movie.rating}</p>
                 </div>
-              
-      
-        
               </div>
-              
             </div>
           ))}
         </div>

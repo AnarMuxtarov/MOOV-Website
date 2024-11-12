@@ -570,6 +570,9 @@
   #Movie-Search .parent_data .container {
     grid-template-columns: repeat(1, 1fr);
   }
+  #Movie-Search input {
+    width: 300px; 
+  }
   /*------------------ Movie Page resposive end------------------ */
 
  /*------------------ NotFound Page resposive start------------------ */

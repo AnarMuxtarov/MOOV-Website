@@ -8,6 +8,7 @@ import "../Header/Header.css";
 
 const Header = () => {
   const [open, setOpen] = useState(false);
+  // State dəyişdikdə əksinə çevir (toggle)
   const toggleMenu = () => {
     setOpen(!open);
   };
@@ -56,7 +57,8 @@ const Header = () => {
         </div>
 
         {/* <div className="nav-link"> */}
-
+              
+              {/* açıq deyilsə gizlət cssdə əks halda göstər-active dizayn media cssdə 941pxdə*/}
         <div className={!open ? "nav-link " : "nav-link active"}>
           <li>
             <NavLink to="/"> Home </NavLink>

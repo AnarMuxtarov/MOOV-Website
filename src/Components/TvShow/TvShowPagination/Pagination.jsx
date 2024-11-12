@@ -4,7 +4,7 @@ import "../TvShowPagination/Pagination.css";
 const Pagination = ({ moviesPerPage, totalMovies, paginate, currentPage }) => {
   const pageNumbers = [];
 
-  // Ümumi səhifə sayını hesablayır
+  // Ümumi səhifələrin sayını hesablamaq üçün döngü qururuq
   for (let i = 1; i <= Math.ceil(totalMovies / moviesPerPage); i++) {
     pageNumbers.push(i);
   }
@@ -12,7 +12,7 @@ const Pagination = ({ moviesPerPage, totalMovies, paginate, currentPage }) => {
   return (
     <nav>
       <ul className="pagination">
-        {/* Page Numbers */}
+        {/* Səhifələrin nömrəsi */}
         {pageNumbers.map((number) => (
           <li
             key={number}
@@ -24,7 +24,13 @@ const Pagination = ({ moviesPerPage, totalMovies, paginate, currentPage }) => {
           </li>
         ))}
 
-        {/* Next Button */}
+
+
+
+
+
+
+         {/* Bir sonrakı səhifəyə keçid düyməsi */}
         <li
           className={`page-item ${
             currentPage === pageNumbers.length ? "disabled" : ""
